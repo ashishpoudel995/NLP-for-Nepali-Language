@@ -1,0 +1,3000 @@
+Sr,Words,P.O.S,Level,Nepali Word
+1,"a, an","indefinite, article",A1,"एक, एक"
+2,abandon,Verb,B2,त्याग्न
+3,ability,Noun,A2,क्षमता
+4,able,Adjective,A2,सक्षम
+5,about,prep. Adverb,A1,बारेमा
+6,above,prep. Adverb,A1,माथि
+7,abroad,Adverb,A2,विदेश
+8,absolute,Adjective,B2,निरपेक्ष
+9,absolutely,Adverb,B1,बिल्कुल
+10,academic,"adj, Noun","B1, B2",शैक्षिक
+11,accept,Verb,A2,स्वीकार
+12,acceptable,Adjective,B2,स्वीकार्य
+13,access,Noun Verb,B1,पहुँच
+14,accident,Noun,A2,दुर्घटना
+15,accommodation,Noun,B1,आवास
+16,accompany,Verb,B2,साथ दिनु
+17,according to,prep.,A2,यस अनुसार
+18,account,Noun Verb,"B1, B2",खाता
+19,accurate,Adjective,B2,सही
+20,accuse,Verb,B2,आरोप
+21,achieve,Verb,A2,प्राप्त
+22,achievement,Noun,B1,उपलब्धि
+23,acknowledge,Verb,B2,स्वीकार
+24,acquire,Verb,B2,अधिग्रहण
+25,across,prep. Adverb,A1,मार्फत
+26,act,Verb Noun,"A2,B1",कार्य
+27,action,Noun,A1,कार्य
+28,active,Adjective,A2,सक्रिय
+29,activity,Noun,A1,गतिविधि
+30,actor,Noun,A1,अभिनेता
+31,actress,Noun,A1,अभिनेत्री
+32,actual,Adjective,B2,वास्तविक
+33,actually,Adverb,A2,वास्तवमा
+34,ad,Noun,B1,विज्ञापन
+35,adapt,Verb,B2,अनुकूल
+36,add,Verb,A1,थप
+37,addition,Noun,B1,साथै
+38,additional,Adjective,B2,थप
+39,address,Noun Verb,"A1,B2",ठेगाना
+40,administration,Noun,B2,प्रशासन
+41,admire,Verb,B1,एडमाएर
+42,admit,Verb,B1,स्वीकार
+43,adopt,Verb,B2,अपनाउने
+44,adult,Noun adj,"A1,A2",वयस्क
+45,Advance,Noun Verb adj,B2,अग्रिम
+46,Advanced,Adjective,B1,विकसित
+47,Advantage,Noun,A2,फाइदा
+48,Adventure,Noun,A2,साहसिक
+49,Advertise,Verb,A2,विज्ञापन
+50,Advertisement,Noun,A2,विज्ञापन
+51,Advertising,Noun,A2,विज्ञापन
+52,Advice,Noun Verb,"A1, B1",सल्लाह
+53,affair,Noun,B2,सम्बन्ध
+54,affect,Verb,A2,असर
+55,afford,Verb,B1,उठयो
+56,afraid,Adjective,A1,डर
+57,after,prep. conj. Adverb,"A1,A2",पछि
+58,afternoon,Noun,A1,दिउँसो
+59,afterwards,Adverb,B2,पछि
+60,again,Adverb,A1,फेरि
+61,against,prep,A2,विरुद्ध
+62,age,Noun Verb,"A1, B1",उमेर
+63,aged,Adjective,B1,वृद्ध
+64,agency,Noun,B2,एजेन्सी
+65,agenda,Noun,B2,एजेन्डा
+66,agent,Noun,B1,एजेन्ट
+67,aggressive,Adjective,B2,आक्रामक
+68,ago,Adverb,A1,पहिले
+69,agree,Verb,A1,सहमत
+70,agreement,Noun,B1,सम्झौता
+71,ah,exclam.,A2,आह
+72,ahead,Adverb,B1,अगाडि
+73,aid,Noun Verb,B2,सहायता
+74,aim,Verb Noun,B1,उद्देश्य
+75,air,Noun,A1,हावा
+76,aircraft,Noun,B2,विमान
+77,airline,Noun,A2,विमान
+78,airport,Noun,A1,विमानस्थल
+79,alarm,Noun Verb,"B1, B2",अलार्म
+80,album,Noun,B1,एल्बम
+81,alcohol,Noun,B1,रक्सी
+82,alcoholic,Adjective,B1,मादक
+83,alive,Adjective,A2,जीवित
+84,all,"det. pron, Adverb","A1, A2",सबै
+85,all right,"Adjective, Adverb exclam",A2,सबै सही
+86,allow,Verb,A2,अनुमति
+87,almost,Adverb,A2,लगभग
+88,alone,"Adjective, Adverb",A2,एक्लै
+89,along,prep. Adverb,A2,साथ
+90,already,Adverb,A2,पहिले नै
+91,also,Adverb,A1,पनि
+92,alter,Verb,B2,Alter
+93,alternative,Noun Adjective,"A2, B1",वैकल्पिक
+94,although,conj,A2,हुनत
+95,always,Adverb,A1,सधैं
+96,amazed,Adjective,B1,छक्क
+97,amazing,Adjective,A1,अचम्मको
+98,ambition,Noun,B1,अभिलाषा
+99,ambitious,Adjective,B1,घमन्डी
+100,among,prep.,A2,बीचमा
+101,amount,Noun Verb,"A2, B2",रकम
+102,analyse,Verb,B1,विश्लेषण
+103,analysis,Noun,B1,विश्लेषण
+104,ancient,Adjective,A2,पुरातन
+105,and,conj,A1,र
+106,anger,Noun,B2,रिस
+107,angle,Noun,B2,कोण
+108,angry,Adjective,A1,क्रोधित
+109,animal,Noun,A1,पशु
+110,ankle,Noun,A2,टखने
+111,anniversary,Noun,B2,वार्षिकोत्सव
+112,announce,Verb,B1,घोषणा
+113,announcement,Noun,B1,घोषणा
+114,annoy,Verb,B1,परेशान
+115,annoyed,Adjective,B1,नाराज
+116,annoying,Adjective,B1,कष्टप्रद
+117,annual,Adjective,B2,वार्षिक
+118,another,det. proNoun,A1,अर्को
+119,answer,Noun Verb,A1,जवाफ
+120,anxious,Adjective,B2,चिन्तित
+121,any,"det. proNoun, Adverb","A1, A2",कुनै पनि
+122,anybody,pron,A2,जो कोहि
+123,any more,Adverb,A2,अरु केहि
+124,anyone,pron,A1,जो कोहीले
+125,anything,pron,A1,केहि
+126,anyway,Adverb,A2,जे भए पनि
+127,anywhere,AdVerb proNoun,A2,कहीं
+128,apart,Adverb,B1,अलग
+129,apartment,Noun,A1,घर
+130,apologize,Verb,B1,क्षमा चाहन्छौं
+131,app,Noun,A2,अनुप्रयोग
+132,apparent,Adjective,B2,स्पष्ट
+133,apparently,Adverb,B2,स्पष्ट
+134,appeal,Noun Verb,B2,पुनरावेदन
+135,appear,Verb,A2,देखा
+136,appearance,Noun,A2,उपस्थिति
+137,apple,Noun,A1,स्याऊ
+138,application,Noun,B1,आवेदन
+139,apply,Verb,A2,निवेदन गर्नु
+140,appointment,Noun,B1,नियुक्ति
+141,appreciate,Verb,B1,कदर गर्छौं
+142,approach,Noun Verb,B2,दृष्टिकोण
+143,appropriate,Adjective,B2,उपयुक्त
+144,approval,Noun,B2,अनुमोदन
+145,approve,Verb,B2,अनुमोदन
+146,approximately,Adverb,B1,लगभग
+147,April,Noun,A1,अप्रिल
+148,architect,Noun,A2,नक्शा वा रुपरेखा तयार पार्ने व्यक्ति
+149,architecture,Noun,A2,वास्तुकला
+150,area,Noun,A1,क्षेत्र
+151,argue,Verb,A2,तर्क
+152,argument,Noun,A2,तर्क
+153,arise,Verb,B2,उत्पन्न
+154,arm,Noun,A1,आर्म
+155,armed,Adjective,B2,सशस्त्र
+156,arms,Noun,B2,हतियार
+157,army,Noun,A2,सेना
+158,around,prep. Adverb,A1,वरिपरि
+159,arrange,Verb,A2,व्यवस्था
+160,arrangement,Noun,A2,व्यवस्था
+161,arrest,Verb Noun,B1,पक्राउ
+162,arrival,Noun,B1,आगमन
+163,arrive,Verb,A1,आइपुग्छन्
+164,art,Noun,A1,कला
+165,article,Noun,A1,लेख
+166,artificial,Adjective,B2,कृत्रिम
+167,artist,Noun,A1,कलाकार
+168,artistic,Adjective,B2,कलात्मक
+169,as,"prep., Adverb conj.","A1, A2",रूपमा
+170,ashamed,Adjective,B2,लज्जित
+171,asleep,Adjective,A2,सुतेको
+172,ask,Verb,A1,सोध्नु
+173,aspect,Noun,B2,पक्ष
+174,assess,Verb,B2,आकलन
+175,assessment,Noun,B2,मूल्यांकन
+176,assignment,Noun,B1,जिम्मेवारी
+177,assist,Verb,B1,सहयोग
+178,assistant,Noun Adjective,A2,सहायक
+179,associate,Verb,B2,एसोसिएट
+180,associated,Adjective,B2,सम्बद्ध
+181,association,Noun,B2,संघ
+182,assume,Verb,B2,मान
+183,at,prep.,A1,मा
+184,athlete,Noun,A2,खेलाडी
+185,atmosphere,Noun,B1,वातावरण
+186,attach,Verb,B1,संलग्न
+187,attack,Noun Verb,A2,आक्रमण
+188,attempt,Noun Verb,B2,प्रयास
+189,attend,Verb,A2,उपस्थित
+190,attention,Noun exclam.,A2,ध्यान
+191,attitude,Noun,B1,मनोवृत्ति
+192,attract,Verb,B1,आकर्षित
+193,attraction,Noun,B1,आकर्षण
+194,attractive,Adjective,A2,आकर्षक
+195,audience,Noun,A2,दर्शक
+196,August,Noun,A1,अगस्ट
+197,aunt,Noun,A1,चाची
+198,author,Noun,A2,लेखक
+199,authority,Noun,B1,अख्तियार
+200,autumn,Noun,A1,शरद ऋतु
+201,available,Adjective,A2,उपलब्ध
+202,average,"Adjective, Noun Verb","A2, B1",औसत
+203,avoid,Verb,A2,जोगिन
+204,award,Noun Verb,"A2, B1",पुरस्कार
+205,aware,Adjective,B1,सचेत
+206,away,Adverb,A1,टाढा
+207,awful,Adjective,A2,डरलाग्दो
+208,baby,Noun,A1,बच्चा
+209,back,"Noun AdVerb Adjective, Verb","A1, A2, B2",फिर्ता
+210,background,Noun,A2,पृष्ठभूमि
+211,backwards,Adverb,B1,पछिल्तिर
+212,bacteria,Noun,B2,जीवाणुहरु
+213,bad,Adjective,A1,खराब
+214,badly,Adverb,A2,नराम्ररी
+215,bag,Noun,A1,झोला
+216,bake,Verb,B1,पाक्नु
+217,balance,Noun Verb,B1,ब्यालेन्स
+218,ball,Noun,A1,बल
+219,ban,Verb Noun,B1,प्रतिबन्ध
+220,banana,Noun,A1,केले
+221,band,Noun,A1,ब्यान्ड
+222,bank (money),Noun,A1,बैंक (पैसा)
+223,bank (river),Noun,B1,बैंक (नदी)
+224,bar,Noun Verb,"A2, B2",बार
+225,barrier,Noun,B2,बाधा
+226,base,Noun Verb,B1,आधार
+227,baseball,Noun,A2,बेसबल
+228,based,Adjective,A2,आधारित
+229,basketball,Noun,A2,बास्केटबल
+230,basic,Adjective,B1,आधारभूत
+231,basically,Adverb,B2,मूलतः
+232,basis,Noun,B1,आधार
+233,bath,Noun,A1,स्नान
+234,bathroom,Noun,A1,बाथरूम
+235,battery,Noun,B1,ब्याट्री
+236,battle,Noun Verb,"B1, B2",युद्धमा
+237,be,Verb auxiliary Verb,A1,हुन
+238,beach,Noun,A1,समुद्र तट
+239,bean,Noun,A2,सेम
+240,bear (deal with),Verb,B2,भालु (सामना)
+241,bear (animal),Noun,A2,भालु (पशु)
+242,beat,Verb Noun,"A2, B2",बिट
+243,beautiful,Adjective,A1,सुन्दर
+244,beauty,Noun,B1,सौन्दर्य
+245,because,conj.,A1,किनभने
+246,become,Verb,A1,बन्न
+247,bed,Noun,A1,ओछ्यानमा
+248,bedroom,Noun,A1,बेडरूम
+249,bee,Noun,B1,मौरी
+250,beef,Noun,A2,मासु
+251,beer,Noun,A1,बियर
+252,before,"prep., conj. Adverb","A1, A2",पहिले
+253,beg,Verb,B2,बिन्ती गर्नु
+254,begin,Verb,A1,सुरु
+255,beginning,Noun,A1,सुरुमा
+256,behave,Verb,A2,व्यवहार
+257,behaviour,Noun,A2,व्यवहार
+258,behind,prep. Adverb,A1,पछि
+259,being,Noun,B2,जा
+260,belief,Noun,B1,विश्वास
+261,believe,Verb,A1,विश्वास
+262,bell,Noun,B1,घण्टी
+263,belong,Verb,A2,सम्बन्धित
+264,below,Adverb prep.,A1,तल
+265,belt,Noun,A2,बेल्ट
+266,bend,Verb Noun,B1,बाङ्गो
+267,benefit,Verb NouNoun,"A2, B1",लाभ
+268,bent,Adjective,B2,झुकेको
+269,best,"Adjective, AdVerb Noun","A1, A2",सबै भन्दा राम्रो
+270,bet,Verb Noun,B2,शर्त
+271,better,"Adjective , Adverb , Noun","A1, A2, B1",राम्रो
+272,between,"prep., Adverb","A1, A2",बीच
+273,beyond,prep. Adverb,B2,बाहिर
+274,bicycle,Noun,A1,साइकल
+275,big,Adjective,A1,ठूलो
+276,bike,Noun,A1,बाइक
+277,bill,Noun Verb,"A1, B2",बिल
+278,billion number,,A2,अरब नम्बर
+279,bin,Noun,A2,बिन
+280,biology,Noun,A2,जीव
+281,bird,Noun,A1,चरा
+282,birth,Noun,A2,जन्म
+283,birthday,Noun,A1,जन्मदिन
+284,biscuit,Noun,A2,बिस्कुट
+285,bit,Noun,A2,बिट
+286,bite,Verb Noun,B1,दु: ख
+287,bitter,Adjective,B2,तीतो
+288,black,"Adjective, Noun",A1,कालो
+289,blame,Verb Noun,B2,दोष
+290,blank,"Adjective, Noun",A2,खाली
+291,blind,Adjective,B2,अन्धो
+292,block,Noun Verb,B1,ब्लक
+293,blog,Noun,A1,ब्लग
+294,blonde,Adjective,A1,गोरा
+295,blood,Noun,A2,रगत
+296,blow,Verb,A2,झटका
+297,blue,"Adjective, Noun",A1,नीलो
+298,board,Noun Verb,"A2, B1",बोर्ड
+299,boat,Noun,A1,डुङ्गा
+300,body,Noun,A1,जीउ
+301,boil,Verb,A2,जोश
+302,bomb,Noun Verb,B1,बम
+303,bond,Noun,B2,बन्धन
+304,bone,Noun,A2,हड्डी
+305,book,Noun Verb,"A1, A2",पुस्तक
+306,boot,Noun,A1,बुट
+307,border,Noun Verb,"B1, B2",सीमा
+308,bored,Adjective,A1,नरमाइलो
+309,boring,Adjective,A1,नीरस
+310,born,Verb,A1,जन्म
+311,borrow,Verb,A2,उधारो
+312,boss,Noun,A2,मालिक
+313,both,det./proNoun,A1,दुवै
+314,bother,Verb,B1,चिन्ता
+315,bottle,Noun,A1,बोतल
+316,bottom,NouNoun Adjective,A2,तल
+317,bowl,Noun,A2,कचौरा
+318,box,Noun,A1,बक्स
+319,boy,Noun,A1,केटा
+320,boyfriend,Noun,A1,प्रेमी
+321,brain,Noun,A2,मस्तिष्क
+322,branch,Noun,B1,साखा
+323,brand,Noun Verb,B1,ब्रान्ड
+324,brave,Adjective,B1,साहसी
+325,bread,Noun,A1,रोटी
+326,break,Verb Noun,A1,ब्रेक
+327,breakfast,Noun,A1,नास्ता
+328,breast,Noun,B2,स्तन
+329,breath,Noun,B1,सास
+330,breathe,Verb,B1,सास फेर्न
+331,breathing,Noun,B1,साँस
+332,bride,Noun,B1,दुलही
+333,bridge,Noun,A2,पुल
+334,brief,Adjective,B2,संक्षिप्त
+335,bright,Adjective,A2,उज्ज्वल
+336,brilliant,Adjective,A2,शानदार
+337,bring,Verb,A1,ल्याउन
+338,broad,Adjective,B2,व्यापक
+339,broadcast,Verb Noun,B2,प्रसारण
+340,broken,Adjective,A2,भङ्ग
+341,brother,Noun,A1,भाइ
+342,brown,"Adjective, Noun",A1,खैरो
+343,brush,Verb Noun,A2,ब्रश
+344,bubble,Noun,B1,बबल
+345,budget,Noun,B2,बजेट
+346,build,Verb,A1,गठन
+347,building,Noun,A1,भवन
+348,bullet,Noun,B2,बुलेट
+349,bunch,Noun,B2,गुच्छा
+350,burn,Verb Noun,"A2, B2",बाल्न
+351,bury,Verb,B1,मुर्दा गाड्नु
+352,bus,Noun,A1,बस
+353,bush,Noun,B2,झाडी
+354,business,Noun,A1,व्यापार
+355,businessman,Noun,A2,व्यापारी
+356,busy,Adjective,A1,व्यस्त
+357,but,conj. prep,"A1, B2",तर
+358,butter,Noun,A1,मक्खन
+359,button,Noun,A2,टांक
+360,buy,Verb,A1,खरीद
+361,by,prep. Adverb,"A1, B1",द्वारा
+362,bye,exclam,A1,बिदाई
+363,cable,Noun,B2,केबल
+364,cafe,Noun,A1,क्याफे
+365,cake,Noun,A1,केक
+366,calculate,Verb,B2,Calculate
+367,call,Verb Noun,A1,कल
+368,calm,Adjective Verb Noun,B1,शान्त
+369,camera,Noun,A1,क्यामेरा
+370,camp,Noun Verb,A2,शिविरमा
+371,campaign,Noun Verb,B1,अभियान
+372,camping,Noun,A2,शिविर
+373,campus,Noun,B1,क्याम्पस
+374,can1,modal Verb,A1,can1
+375,can2,Noun,A2,CAN2
+376,cancel,Verb,B2,रद्द
+377,cancer,Noun,B2,क्यान्सर
+378,candidate,Noun,B1,उम्मेदवार
+379,cannot,Verb,A1,सकदिन
+380,cap,Noun,B1,टोपी
+381,capable,Adjective,B2,सक्षम
+382,capacity,Noun,B2,क्षमता
+383,capital,Noun Adjective,A1,राजधानी
+384,captain,Noun,B1,कप्तान
+385,capture,Verb Noun,B2,कब्जा
+386,car,Noun,A1,कार
+387,card,Noun,A1,कार्ड
+388,care,Noun Verb,A2,हेरविचार
+389,career,Noun,A1,क्यारियर
+390,careful,Adjective,A2,होसियार
+391,carefully,Adverb,A2,ध्यान दिएर
+392,careless,Adjective,B1,लापरवाह
+393,carpet,Noun,A2,गलैँचा
+394,carrot,Noun,A1,गाजर
+395,carry,Verb,A1,लैजाने
+396,cartoon,Noun,A2,कार्टून
+397,case,Noun,A2,मामला
+398,cash,Noun,A2,नगद
+399,cast,Noun Verb,B2,जात
+400,castle,Noun,A2,महल
+401,cat,Noun,A1,बिरालो
+402,catch,Verb Noun,"A2, B2",क्याच
+403,category,Noun,B1,वर्ग
+404,cause,Noun Verb,A2,कारण
+405,CD,Noun,A1,सीडी
+406,ceiling,Noun,B1,छत
+407,celebrate,Verb,A2,मनाउन
+408,celebration,Noun,B1,उत्सव
+409,celebrity,Noun,A2,सेलिब्रिटी
+410,cell,Noun,B2,सेल
+411,cent,Noun,A1,प्रतिशत
+412,central,Adjective,B1,केन्द्रीय
+413,centre,Noun Verb,"A1, B1",केन्द्र
+414,century,Noun,A1,सताब्दी
+415,ceremony,Noun,B1,समारोह
+416,certain,Adjective,A2,केही
+417,certainly,Adverb,A2,पक्कै पनि
+418,chain,Noun Verb,"B1, B2",श्रृंखला
+419,chair,Noun Verb,"A1, B2",कुर्सी
+420,chairman,Noun,B2,अध्यक्ष
+421,challenge,Noun Verb,"B1, B2",चुनौती
+422,champion,Noun,B1,च्याम्पियन
+423,chance,Noun,A2,मौका
+424,change,Verb Noun,A1,परिवर्तन
+425,channel,Noun,B1,च्यानल
+426,chapter,Noun,B1,अध्याय
+427,character,Noun,A2,वर्ण
+428,characteristic,Noun Adjective,B2,विशेषता
+429,charge,Noun Verb,B1,शुल्क
+430,charity,Noun,A2,दान
+431,chart,Noun Verb,"A1, B2",चार्ट
+432,chat,Verb Noun,A2,कुराकानी
+433,cheap,"Adjective , Adverb","A1, B1",सस्तो
+434,cheat,Verb Noun,B1,धोखा
+435,check,Verb Noun,"A1, A2",जाँच
+436,chef,Noun,A2,महाराज
+437,cheerful,Adjective,B1,हँसमुख
+438,cheese,Noun,A1,पनीर
+439,chemical,"Adjective, Noun",B1,रासायनिक
+440,chemistry,Noun,A2,रसायन
+441,chest,Noun,B1,छाती
+442,chicken,Noun,A1,चिकन
+443,chief,"Adjective, Noun",B2,मुख्य
+444,child,Noun,A1,बच्चा
+445,childhood,Noun,B1,बाल्यकाल
+446,chip,Noun,A2,चिप
+447,chocolate,Noun,A1,चकलेट
+448,choice,Noun,A2,विकल्प
+449,choose,Verb,A1,छनौट
+450,church,Noun,A2,चर्च
+451,cigarette,Noun,A2,चुरोट
+452,cinema,Noun,A1,सिनेमा
+453,circle,Noun Verb,A2,गोलाकार
+454,circumstance,Noun,B2,परिस्थितिमा
+455,cite,Verb,B2,उद्धृत
+456,citizen,Noun,B2,नागरिक
+457,city,Noun,A1,शहर
+458,civil,Adjective,B2,नागरिक
+459,claim,Verb Noun,B1,दावी
+460,class,Noun,A1,वर्ग
+461,classic,"Adjective, Noun",B2,क्लासिक
+462,classical,Adjective,A2,शास्त्रीय
+463,classroom,Noun,A1,कक्षा
+464,clause,Noun,B1,परिच्छेद
+465,clean,"Adjective, Verb",A1,सफा
+466,clear,"Adjective, Verb","A2, B1",स्पष्ट
+467,clearly,Adverb,A2,स्पष्ट
+468,clever,Adjective,A2,चतुर
+469,click,Verb Noun,B1,क्लिक
+470,client,Noun,B1,ग्राहक
+471,climate,Noun,A2,जलवायु
+472,climb,Verb Noun,"A1, B1",चढ्नु
+473,clock,Noun,A1,घडी
+474,close1,Verb Noun,"A1, B2",close1
+475,close2,"Adjective , Adverb","A2, B1",close2
+476,closed,Adjective,A2,बन्द
+477,closely,Adverb,B2,राम्ररी
+478,cloth,Noun,B1,कपडा
+479,clothes,Noun,A1,लुगा
+480,clothing,Noun,A2,वस्त्र
+481,cloud,Noun,A2,बादल
+482,club,Noun,A1,क्लब
+483,clue,Noun,B1,सुत्र
+484,coach,Noun Verb,"A2, B1",कोच
+485,coal,Noun,B1,कोइला
+486,coast,Noun,A2,तट
+487,coat,Noun,A1,कोट
+488,code,Noun,A2,कोड
+489,coffee,Noun,A1,कफी
+490,coin,Noun,B1,सिक्का
+491,cold,Adjective Noun,A1,चिसो
+492,collapse,Verb Noun,B2,पतन
+493,colleague,Noun,A2,सहयोगी
+494,collect,Verb,A2,सङ्कलन
+495,collection,Noun,B1,संग्रह
+496,college,Noun,A1,कलेज
+497,colour,Noun,A1,रंग
+498,coloured,Adjective,B1,रंग
+499,column,Noun,A2,स्तम्भ
+500,combination,Noun,B2,संयोजन
+501,combine,Verb,B1,संयोजन
+502,come,Verb,A1,आउनुहोस्
+503,comedy,Noun,A2,कमेडी
+504,comfort,Noun Verb,B2,सान्त्वना
+505,comfortable,Adjective,A2,सहज
+506,command,Noun Verb,B2,आदेश
+507,comment,Noun Verb,"A2, B1",टिप्पणी
+508,commercial,Adjective Noun,B1,व्यावसायिक
+509,commission,Noun Verb,B2,आयोग
+510,commit,Verb,B1,प्रतिबद्ध
+511,commitment,Noun,B2,प्रतिबद्धता
+512,committee,Noun,B2,समिति
+513,common,Adjective Noun,A1,साधारण
+514,commonly,Adverb,B2,सामान्यतः
+515,communicate,Verb,A2,कुराकानी
+516,communication,Noun,B1,संचार
+517,community,Noun,A2,समुदाय
+518,company,Noun,A1,कम्पनी
+519,compare,Verb,A1,तुलना
+520,comparison,Noun,B1,तुलना
+521,compete,Verb,A2,प्रतिस्पर्धा
+522,competition,Noun,A2,प्रतियोगिता
+523,competitor,Noun,B1,प्रतियोगी
+524,competitive,Adjective,B1,प्रतिस्पर्धी
+525,complain,Verb,A2,गुनासो
+526,complaint,Noun,B1,उजुरी
+527,complete,Adjective Verb,A1,पूरा
+528,completely,Adverb,A2,पूर्ण
+529,complex,"Adjective, Noun","B1, B2",जटिल
+530,complicated,Adjective,B2,जटिल
+531,component,Noun,B2,घटक
+532,computer,Noun,A1,कम्प्युटर
+533,concentrate,Verb,B1,ध्यान
+534,concentration,Noun,B2,एकाग्रता
+535,concept,Noun,B2,अवधारणा
+536,concern,Noun Verb,B2,चासो
+537,concerned,Adjective,B2,फिक्री
+538,concert,Noun,A1,कन्सर्ट
+539,conclude,Verb,B1,निष्कर्षमा पुग्न
+540,conclusion,Noun,B1,निष्कर्षमा
+541,condition,Noun,A2,अवस्था
+542,conduct,Verb Noun,B2,आचरण
+543,conference,Noun,A2,सम्मेलन
+544,confidence,Noun,B2,निर्धक्क
+545,confident,Adjective,B1,विश्वस्त
+546,confirm,Verb,B1,पुष्टि
+547,conflict,Noun Verb,B2,द्वन्द्व
+548,confuse,Verb,B1,भ्रममा
+549,confused,Adjective,B1,भ्रमित
+550,confusing,Adjective,B2,भ्रमित
+551,connect,Verb,A2,जडान
+552,connected,Adjective,A2,जडान
+553,connection,Noun,B1,जडान
+554,conscious,Adjective,B2,सचेत
+555,consequence,Noun,B1,फलतः
+556,conservative,"Adjective, Noun",B2,रूढिवादी
+557,consider,Verb,A2,विचार
+558,consideration,Noun,B2,विचार
+559,consist,Verb,B1,समावेश
+560,consistent,Adjective,B2,लगातार
+561,constant,Adjective,B2,स्थिर
+562,constantly,Adverb,B2,निरन्तर
+563,construct,Verb,B2,निर्माण
+564,construction,Noun,B2,निर्माण
+565,consume,Verb,B1,उपभोग
+566,consumer,Noun,B1,उपभोक्ता
+567,contact,Noun Verb,B1,सम्पर्क
+568,contain,Verb,A2,समावेश
+569,container,Noun,B1,कन्टेनर
+570,contemporary,Adjective,B2,समकालीन
+571,content,Noun,B1,सामग्री
+572,contest,Noun Verb,B2,प्रतियोगिता
+573,context,Noun,A2,सन्दर्भ
+574,continent,Noun,A2,महादेशमा
+575,continue,Verb,A2,जारी
+576,continuous,Adjective,B1,लगातार
+577,contract,Noun Verb,B2,सम्झौता
+578,contrast,Noun Verb,B1,यसको विपरीत
+579,contribute,Verb,B2,योगदान
+580,contribution,Noun,B2,योगदान
+581,control,Noun Verb,A2,नियन्त्रण
+582,convenient,Adjective,B1,सुविधाजनक
+583,conversation,Noun,A1,कुराकानी
+584,convert,Verb,B2,परिवर्तित
+585,convince,Verb,B1,विश्वस्त
+586,convinced,Adjective,B2,विश्वस्त
+587,cook,Verb Noun,"A1, A2",कुक
+588,cooker,Noun,A2,कुकर
+589,cooking,Noun,A1,खाना पकाउने
+590,cool,"Adjective, Verb","A1, B1",सुन्दर
+591,copy,Noun Verb,A2,कापी
+592,core,Noun Adjective,B2,कोर
+593,corner,Noun,A2,कुना
+594,corporate,Adjective,B2,कर्पोरेट
+595,correct,Adjective Verb,A1,सही
+596,correctly,Adverb,A2,सही
+597,cost,Noun Verb,A1,लागत
+598,costume,Noun,B1,पोशाक
+599,cottage,Noun,B1,घरेलु
+600,cotton,Noun,B1,कपास
+601,could,Verb,A1,सकेजति
+602,council,Noun,B2,परिषद
+603,count,Verb Noun,"A2, B1",गणना
+604,country,Noun,A1,देश
+605,countryside,Noun,B1,देहात
+606,county,Noun,B2,काउन्टी
+607,couple,Noun,A2,जोडी
+608,courage,Noun,B2,साहस
+609,course,Noun,A1,पाठ्यक्रम
+610,court,Noun,B1,अदालत
+611,cousin,Noun,A1,भान्जा
+612,cover,Verb Noun,"A2, B1",आवरण
+613,covered,Adjective,B1,ढाकिएको
+614,cow,Noun,A1,गाई
+615,crash,Noun Verb,B2,दुर्घटना
+616,crazy,Adjective,A2,पागल
+617,cream,Noun Adjective,"A1, B1",तर
+618,create,Verb,A1,सिर्जना
+619,creation,Noun,B2,सिर्जना
+620,creative,Adjective,A2,रचनात्मक
+621,creature,Noun,B2,जीव
+622,credit,Noun Verb,"A2, B2",क्रेडिट
+623,crew,Noun,B2,चालक दल
+624,crime,Noun,A2,अपराध
+625,criminal,Noun Adjective,"A2, B1",आपराधिक
+626,crisis,Noun,B2,संकट
+627,criterion,Noun,B2,मापदण्ड
+628,critic,Noun,B2,आलोचक
+629,critical,Adjective,B2,महत्वपूर्ण
+630,criticism,Noun,B2,आलोचना
+631,criticize,Verb,B2,आलोचना
+632,crop,Noun,B2,क्रप
+633,cross,Verb Noun,A2,पार
+634,crowd,Noun,A2,भीड
+635,crowded,Adjective,A2,भीड
+636,crucial,Adjective,B2,महत्वपूर्ण
+637,cruel,Adjective,B1,क्रूर
+638,cry,Verb Noun,"A2, B2",कराउँदै
+639,cultural,Adjective,B1,सांस्कृतिक
+640,culture,Noun,A1,संस्कृति
+641,cup,Noun,A1,कप
+642,cupboard,Noun,A2,अल्मारी
+643,cure,Verb Noun,B2,उपचार
+644,curly,Adjective,A2,घुम्रेको
+645,currency,Noun,B1,मुद्रा
+646,current,"Adjective, Noun","B1, B2",वर्तमान
+647,currently,Adverb,B1,हाल
+648,curtain,Noun,B1,पर्दा
+649,curve,Noun Verb,B2,वक्र
+650,curved,Adjective,B2,बाङ्गो
+651,custom,Noun,B1,अनुकूलन
+652,customer,Noun,A1,ग्राहक
+653,cut,"Verb , Noun","A1, B1",कट
+654,cycle,Noun Verb,"A2, B1",चक्र
+655,dad,Noun,A1,पिताजी
+656,daily,"Adjective, Adverb","A2, B1",दैनिक
+657,damage,Noun Verb,B1,क्षति
+658,dance,Noun Verb,A1,नृत्य
+659,dancer,Noun,A1,नर्तक
+660,dancing,Noun,A1,नृत्य
+661,danger,Noun,A2,खतरा
+662,dangerous,Adjective,A1,खतरनाक
+663,dark,"Adjective, Noun","A1, A2",गाढा
+664,data,Noun,A2,डाटा
+665,date,Noun Verb,"A1, B2",मिति
+666,daughter,Noun,A1,छोरी
+667,day,Noun,A1,दिन
+668,dead,Adjective,A2,मृत
+669,deal,Verb Noun,"A2, B1",सम्झौता
+670,dear,"Adjective, exclam","A1, A2",प्रिय
+671,death,Noun,A2,मृत्यु
+672,debate,Noun Verb,B2,बहस
+673,debt,Noun,B2,ऋण
+674,decade,Noun,B1,दशक
+675,December,Noun,A1,डिसेम्बर
+676,decent,Adjective,B2,सभ्य
+677,decide,Verb,A1,निर्णय
+678,decision,Noun,A2,निर्णय
+679,declare,Verb,B2,घोषणा
+680,decline,Verb Noun,B2,गिरावट
+681,decorate,Verb,B1,सजाने
+682,decoration,Noun,B2,सजावट
+683,decrease,Verb Noun,B2,कमी
+684,deep,"Adjective, Adverb","A2, B1",गहिरो
+685,deeply,Adverb,B2,गहिरो
+686,defeat,Verb Noun,B2,हार
+687,defence,Noun,B2,रक्षा
+688,defend,Verb,B2,रक्षा
+689,define,Verb,B1,परिभाषित
+690,definite,Adjective,B1,निश्चित
+691,definitely,Adverb,A2,निश्चित
+692,definition,Noun,B1,परिभाषा
+693,degree,Noun,A2,डिग्री
+694,delay,Verb Noun,B2,ढिला
+695,deliberate,Adjective,B2,जानिजानि
+696,deliberately,Adverb,B2,जानाजानी
+697,delicious,Adjective,A1,स्वादिष्ट
+698,delight,Verb Noun,B2,आनन्द
+699,delighted,Adjective,B2,खुसी
+700,deliver,Verb,B1,उद्धार
+701,delivery,Noun,B2,वितरण
+702,demand,Noun Verb,B2,माग
+703,demonstrate,Verb,B2,देखाउन
+704,dentist,Noun,A2,दन्त चिकित्सक
+705,deny,Verb,B2,अस्वीकार
+706,department,Noun,A2,विभाग
+707,departure,Noun,B1,प्रस्थान
+708,depend,Verb,A2,निर्भर
+709,depressed,Adjective,B2,उदास
+710,depressing,Adjective,B2,depressing
+711,depth,Noun,B2,गहिराई
+712,describe,Verb,A1,वर्णन
+713,description,Noun,A1,विवरण
+714,desert,Noun Verb,"A2, B2",मरुभूमि
+715,deserve,Verb,B2,पाउन योग्य
+716,design,Noun Verb,A1,डिजाइन
+717,designer,Noun,A2,डिजाइनर
+718,desire,Noun Verb,B2,इच्छा
+719,desk,Noun,A1,डेस्क
+720,desperate,Adjective,B2,निराशाजनक
+721,despite,prep,B1,बावजुद
+722,destination,Noun,B1,गन्तव्य
+723,destroy,Verb,A2,नष्ट
+724,detail,Noun Verb,"A1, B2",विस्तार
+725,detailed,Adjective,B2,विस्तृत
+726,detect,Verb,B2,पत्ता लगाउन
+727,detective,Noun,A2,गुप्तचर
+728,determine,Verb,B1,निर्धारण
+729,determined,Adjective,B1,कटिबद्ध
+730,develop,Verb,A2,विकास
+731,development,Noun,B1,विकास
+732,device,Noun,A2,उपकरण
+733,diagram,Noun,B1,रेखाचित्र
+734,dialogue,Noun,A1,संवाद
+735,diamond,Noun,B1,हीरा
+736,diary,Noun,A2,डायरी
+737,dictionary,Noun,A1,शब्दकोश
+738,die,Verb,A1,मर्न
+739,diet,Noun,A1,आहार
+740,difference,Noun,A1,फरक
+741,different,Adjective,A1,विभिन्न
+742,differently,Adverb,A2,फरक
+743,difficult,Adjective,A1,कठिन
+744,difficulty,Noun,B1,कठिनाई
+745,dig,Verb,B2,खन्नु
+746,digital,Adjective,A2,डिजिटल
+747,dinner,Noun,A1,खाने
+748,direct,"Adjective, Verb Adverb","A2, B1",प्रत्यक्ष
+749,direction,Noun,A2,निर्देशन
+750,directly,Adverb,B1,सीधा
+751,director,Noun,A2,निर्देशक
+752,dirt,Noun,B1,माटो
+753,dirty,Adjective,A1,फोहोर
+754,Dis Adverbantage,Noun,B1,DIS Adverbantage
+755,disagree,Verb,A2,असहमत
+756,disappear,Verb,A2,गायब
+757,disappointed,Adjective,B1,निराश
+758,disappointing,Adjective,B1,निराशाजनक
+759,disaster,Noun,A2,प्रकोप
+760,disc,Noun,B2,डिस्क
+761,discipline,Noun,B2,अनुशासन
+762,discount,Noun Verb,"B1, B2",छुट
+763,discover,Verb,A2,पत्ता लगाउनुहोस्
+764,discovery,Noun,A2,खोज
+765,discuss,Verb,A1,छलफल
+766,discussion,Noun,A2,छलफल
+767,disease,Noun,A2,रोग
+768,dish,Noun,A1,पकवान
+769,dishonest,Adjective,B2,बेइमान
+770,dislike,Verb Noun,B1,मन नपराइएको
+771,dismiss,Verb,B2,खारेज
+772,display,Verb Noun,B2,प्रदर्शन
+773,distance,Noun,A2,दूरी
+774,distribute,Verb,B2,वितरण
+775,distribution,Noun,B2,वितरण
+776,district,Noun,B2,जिल्ला
+777,divide,Verb Noun,"B1, B2",भाग
+778,division,Noun,B2,विभाजन
+779,divorced,Adjective,A2,छोडपत्र
+780,do,Verb auxiliary verb,A1,के
+781,doctor,Noun,A1,डाक्टर
+782,document,Noun Verb,"A2, B2",कागजात
+783,documentary,Noun,B1,वृत्तचित्र
+784,dog,Noun,A1,कुकुर
+785,dollar,Noun,A1,डलर
+786,domestic,Adjective,B2,घरेलू
+787,dominate,Verb,B2,हावी
+788,donate,Verb,B1,दान
+789,door,Noun,A1,ढोका
+790,double,"Adjective det. proNoun Verb , Adverb","A2, B1",डबल
+792,doubt,Noun Verb,B1,पक्कै
+793,down,Adverb Prep,A1,तल
+794,download,Verb Noun,A2,डाउनलोड
+795,downstairs,"Adverb , Adjective","A1, A2",तल ओर्लेर
+796,downwards,Adverb,B2,तल
+797,dozen,Noun det,B2,दर्जन
+798,draft,Noun Verb,B2,मस्यौदा
+799,drag,Verb,B2,तान्नुहोस्
+800,drama,Noun,A2,नाटक
+801,dramatic,Adjective,B2,नाटकीय
+802,draw,Verb,A1,आकर्षित
+803,drawing,Noun,A2,रेखाचित्र
+804,dream,Noun Verb,A2,सपना
+805,dress,Noun Verb,A1,पोशाक
+806,dressed,Adjective,B1,लुगा
+807,drink,Noun Verb,A1,पेय
+808,drive,Verb Noun,"A1, A2",ड्राइभ
+809,driver,Noun,A1,चालक
+810,driving,Noun,A2,ड्राइभिङ
+811,drop,Verb Noun,"A2, B1",ड्रप
+812,drug,Noun,A2,औषधि
+813,drum,Noun,B1,ड्रम
+814,drunk,Adjective,B1,रक्सीले मातेको
+815,dry,"Adjective, Verb",A2,सुक्खा
+816,due,Adjective,B1,कारण
+817,during,prep,A1,समयमा
+818,dust,Noun,B1,धूलो
+819,duty,Noun,B1,कर्तव्य
+820,DVD,Noun,A1,डीभिडी
+821,each,det./proNoun/Adverb,A1,प्रत्येक
+822,ear,Noun,A1,कान
+823,early,Adjective Adverb,A1,प्रारम्भिक
+824,earn,Verb,A2,कमाउन
+825,earth,Noun,A2,पृथ्वी
+826,earthquake,Noun,B1,भूकम्प
+827,easily,Adverb,A2,सजिलै
+828,east,Noun Adjective Adverb,A1,पूर्व
+829,eastern,Adjective,B1,पूर्वी
+830,easy,Adjective,A1,सजिलो
+831,eat,Verb,A1,खान
+832,economic,Adjective,B1,आर्थिक
+833,economy,Noun,B1,अर्थव्यवस्था
+834,edge,Noun,B1,किनारा
+835,edit,Verb,B2,सम्पादन
+836,edition,Noun,B2,संस्करण
+837,editor,Noun,B1,सम्पादक
+838,educate,Verb,B1,शिक्षित
+839,educated,Adjective,B1,शिक्षित
+840,education,Noun,A2,शिक्षा
+841,educational,Adjective,B1,शैक्षिक
+842,effect,Noun,A2,असर
+843,effective,Adjective,B1,प्रभावकारी
+844,effectively,Adverb,B1,प्रभावकारी
+845,efficient,Adjective,B2,कुशल
+846,effort,Noun,B1,प्रयास
+847,egg,Noun,A1,अन्डा
+848,eight,number,A1,आठ
+849,eighteen,number,A1,अठार
+850,eighty,number,A1,असी
+851,either,det./proNoun Adverb,A2,या त
+852,elderly,Adjective,B2,वृद्ध
+853,elect,Verb,B2,चुन्नु
+854,election,Noun,B1,चुनाव
+855,electric,Adjective,A2,बिजुली
+856,electrical,Adjective,A2,विद्युत
+857,electricity,Noun,A2,बिजुली
+858,electronic,Adjective,A2,इलेक्ट्रोनिक
+859,element,Noun,B1,तत्व
+860,elephant,Noun,A1,हात्ती
+861,eleven,number,A1,एघार
+862,else,Adverb,A1,अरू
+863,elsewhere,Adverb,B2,अन्यत्र
+864,email,Noun Verb,A1,इमेल
+865,embarrassed,Adjective,B1,लज्जित
+866,embarrassing,Adjective,B1,लाजमर्दो
+867,emerge,Verb,B2,निस्कनु
+868,emergency,Noun,B1,आपतकालीन
+869,emotion,Noun,B1,भावना
+870,emotional,Adjective,B2,भावनात्मक
+871,emphasis,Noun,B2,जोर
+872,emphasize,Verb,B2,जोड
+873,employ,Verb,A2,रोजगार
+874,employee,Noun,A2,कर्मचारी
+875,employer,Noun,A2,कर्मचारी
+876,employment,Noun,B1,रोजगार
+877,empty,"Adjective, Verb","A2, B1",खाली
+878,enable,Verb,B2,सक्षम
+879,encounter,Verb Noun,B2,मुठभेड
+880,encourage,Verb,B1,प्रोत्साहन
+881,end,Noun Verb,A1,अन्त
+882,ending,Noun,A2,समाप्त
+883,enemy,Noun,B1,शत्रु
+884,energy,Noun,A2,ऊर्जा
+885,engage,Verb,B2,संलग्न
+886,engaged,Adjective,B1,संलग्न
+887,engine,Noun,A2,इन्जिन
+888,engineer,Noun,A2,इन्जिनियर
+889,engineering,Noun,B1,ईन्जिनियरिङ्
+890,enhance,Verb,B2,बृद्धि
+891,enjoy,Verb,A1,आनन्द
+892,enormous,Adjective,A2,भारी
+893,enough,det. proNoun Adverb,A1,पर्याप्त
+894,enquiry,Noun,B2,जांच
+895,ensure,Verb,B2,पक्का गर्नु
+896,enter,Verb,A2,प्रविष्ट
+897,entertain,Verb,B1,Entertain
+898,entertainment,Noun,B1,मनोरञ्जन
+899,enthusiasm,Noun,B2,उत्साह
+900,enthusiastic,Adjective,B2,उत्साहित
+901,entire,Adjective,B2,सम्पूर्ण
+902,entirely,Adverb,B2,सम्पूर्ण
+903,entrance,Noun,B1,प्रवेश
+904,entry,Noun,B1,प्रवेश
+905,environment,Noun,A2,वातावरण
+906,environmental,Adjective,B1,पर्यावरण
+907,episode,Noun,B1,प्रसङ्ग
+908,equal,"Adjective, Verb Noun","B1, B2",बराबर
+909,equally,Adverb,B1,बराबरी
+910,equipment,Noun,A2,उपकरण
+911,error,Noun,A2,त्रुटि
+912,escape,Verb Noun,B1,उम्कन
+913,especially,Adverb,A2,विशेष गरी
+914,essay,Noun,A2,निबन्ध
+915,essential,Adjective,B1,आवश्यक
+916,establish,Verb,B2,स्थापना
+917,estate,Noun,B2,सम्पत्ति
+918,estimate,Verb Noun,B2,अनुमान
+919,ethical,Adjective,B2,नैतिक
+920,euro,Noun,A1,यूरो
+921,evaluate,Verb,B2,मूल्याङ्कन
+922,even,AdVerb Adjective,"A1, B2",पनि
+923,evening,Noun,A1,साँझ
+924,event,Noun,A1,घटना
+925,eventually,Adverb,B1,अन्ततः
+926,ever,Adverb,A1,कहिल्यै
+927,every,det,A1,हरेक
+928,everybody,proNoun,A1,सबैलाई
+929,everyday,Adjective,A2,दैनिक
+930,everyone,proNoun,A1,सबैलाई
+931,everything,proNoun,A1,सबै
+932,everywhere,Adverb,A2,सबैतिर
+933,evidence,Noun,A2,प्रमाण
+934,evil,"Adjective, Noun",B2,खराब
+935,exact,Adjective,A2,सही
+936,exactly,Adverb,A2,ठ्याक्कै
+937,exam,Noun,A1,परीक्षा
+938,examination,Noun,B2,परीक्षा
+939,examine,Verb,B1,जाँच्न
+940,example,Noun,A1,उदाहरणका
+941,excellent,Adjective,A2,उत्कृष्ट
+942,except,"prep, conj","A2, B1",बाहेक
+943,exchange,Noun Verb,B1,विनिमय
+944,excited,Adjective,A1,उत्साहित
+945,excitement,Noun,B1,उत्तेजना
+946,exciting,Adjective,A1,रोमाञ्चक
+947,excuse,Noun Verb,B2,क्षमा गर्नुहोस
+948,executive,Noun Adjective,B2,कार्यकारी
+949,exercise,Noun Verb,A1,व्यायाम
+950,exhibition,Noun,B1,प्रदर्शनी
+951,exist,Verb,A2,अवस्थित
+952,existence,Noun,B2,अस्तित्व
+953,expand,Verb,B1,विस्तार
+954,expect,Verb,A2,आशा
+955,expectation,Noun,B2,आशाले
+956,expected,Adjective,B1,अपेक्षा
+957,expedition,Noun,B1,यात्रा
+958,expense,Noun,B2,खर्च
+959,expensive,Adjective,A1,महँगो
+960,experience,Noun Verb,"A2, B1",अनुभव
+961,experienced,Adjective,B1,अनुभवी
+962,experiment,Noun Verb,"A2, B1",परिक्षण
+963,expert,Noun Adjective,A2,विशेषज्ञ
+964,explain,Verb,A1,व्याख्या
+965,explanation,Noun,A2,व्याख्या
+966,explode,Verb,B1,विस्फोट
+967,exploration,Noun,B2,अन्वेषण
+968,explore,Verb,B1,अन्वेषण
+969,explosion,Noun,B1,विस्फोट
+970,export,Noun Verb,B1,निर्यात
+971,expose,Verb,B2,पर्दाफास
+972,express,Verb,A2,एक्सप्रेस
+973,expression,Noun,A2,अभिव्यक्ति
+974,extend,Verb,B2,विस्तार
+975,extent,Noun,B2,हदसम्म
+976,external,Adjective,B2,बाह्य
+977,extra,"Adjective, Noun Adverb","A1, B1",अतिरिक्त
+978,extraordinary,Adjective,B2,असाधारण
+979,extreme,"Adjective, Noun","A2, B2",चरम
+980,extremely,Adverb,A2,अति
+981,eye,Noun,A1,आँखा
+982,face,Noun Verb,"A1, B1",अनुहार
+983,facility,Noun,B2,सुविधा
+984,fact,Noun,A1,वास्तवमा
+985,factor,Noun,A2,कारक
+986,factory,Noun,A2,कारखाना
+987,fail,Verb,A2,अवश्य
+988,failure,Noun,B2,विफलता
+989,fair,Adjective,A2,निष्पक्ष
+990,fairly,Adverb,B1,एकदम
+991,faith,Noun,B2,विश्वास
+992,fall,Verb Noun,"A1, A2",गिर
+993,FALSE,Adjective,A1,गलत
+994,familiar,Adjective,B1,परिचित
+995,family,Noun Adjective,A1,परिवार
+996,famous,Adjective,A1,प्रसिद्ध
+997,fan,Noun,A2,प्रशंसक
+998,fancy,Verb Adjective,B1,फैंसी
+999,fantastic,Adjective,A1,शानदार
+1000,far,"Adverb , Adjective","A1, B1",टाढा
+1001,farm,Noun Verb,"A1, A2",खेत
+1002,farmer,Noun,A1,किसान
+1003,farming,Noun,A2,खेती
+1004,fascinating,Adjective,B1,आकर्षक
+1005,fashion,Noun,A2,फेसन
+1006,fashionable,Adjective,B1,सुशील
+1007,fast,"Adjective, Adverb",A1,छिटो
+1008,fasten,Verb,B1,कस्नु
+1009,fat,"Adjective, Noun","A1, A2",मोटो
+1010,father,Noun,A1,बुबा
+1011,fault,Noun,B2,गल्ती
+1012,favour,Noun Verb,"B1, B2",पक्षमा
+1013,favourite,"Adjective, Noun",A1,मनपर्ने
+1014,fear,Noun Verb,"A2, B1",डर
+1015,feather,Noun,B2,पंख
+1016,feature,Noun Verb,"A2, B1",सुविधा
+1017,February,Noun,A1,फेब्रुअरी
+1018,fee,Noun,B2,शुल्क
+1019,feed,Verb Noun,"A2, B2",फिड
+1020,feedback,Noun,B2,प्रतिक्रिया
+1021,feel,Verb Noun,"A1, B2",महसुस
+1022,feeling,Noun,A1,भावना
+1023,fellow,Adjective,B2,सँगी
+1024,female,"Adjective, Noun",A2,महिला
+1025,fence,Noun,B1,बार
+1026,festival,Noun,A1,तिहार
+1027,few,"det./Adjective, proNoun",A1,केही
+1028,fiction,Noun,A2,कल्पना
+1029,field,Noun,A2,क्षेत्र
+1030,fifteen,number,A1,पन्ध्र
+1031,fifth,number,A1,पाँचौं
+1032,fifty,number,A1,पचास
+1033,fight,Verb Noun,A2,लडाई
+1034,fighting,Noun,B1,लड
+1035,figure,Noun Verb,"A2, B2",आंकडा
+1036,file,Noun Verb,"B1, B2",फाइल
+1037,fill,Verb,A1,भर्न
+1038,film,Noun Verb,"A1, A2",फिलिम
+1039,final,"Adjective, Noun","A1, A2",अन्तिम
+1040,finally,Adverb,A2,अन्तमा
+1041,finance,Noun Verb,B2,वित्त
+1042,financial,Adjective,B1,वित्तीय
+1043,find,Verb,A1,फेला
+1044,finding,Noun,B2,खोजन
+1045,fine,Adjective,A1,ठीक
+1046,finger,Noun,A2,औंला
+1047,finish,Verb Noun,"A1, A2",समाप्त
+1048,fire,Noun Verb,"A1, B1",आगो
+1049,firm,Noun,B2,दृढ
+1050,first,det./number.AdVerb Noun,"A1, A2",पहिलो
+1051,firstly,Adverb,A2,पहिले
+1052,fish,Noun Verb,"A1, A2",माछा
+1053,fishing,Noun,A2,माछा मार्ने
+1054,fit,Verb Adjective,A2,फिट
+1055,fitness,Noun,B1,फिटनेस
+1056,five,number,A1,पाँच
+1057,fix,Verb Noun,"A2, B2",ठीक
+1058,fixed,Adjective,B1,निश्चित
+1059,flag,Noun,B1,झण्डा
+1060,flame,Noun,B2,ज्वाला
+1061,flash,Noun Verb,B2,फ्लैश
+1062,flat,Noun Adjective,"A1, A2",समतल
+1063,flexible,Adjective,B2,लचिलो
+1064,flight,Noun,A1,उडान
+1065,float,Verb,B2,फ्लोट
+1066,flood,Noun Verb,B1,बाढी
+1067,floor,Noun,A1,तल्ला
+1068,flour,Noun,B1,पीठो
+1069,flow,Verb Noun,B1,प्रवाह
+1070,flower,Noun,A1,फूल
+1071,flu,Noun,A2,फ्लू
+1072,fly,Verb Noun,"A1, A2",उड
+1073,flying,Noun Adjective,A2,उडान
+1074,focus,Verb Noun,A2,ध्यान
+1075,fold,Verb Noun,"B1, B2",गुना
+1076,folding,Adjective,B2,तह
+1077,folk,Noun Adjective,B1,लोक
+1078,follow,Verb,A1,पछ्याउन
+1079,following,"Adjective, Noun prep","A2, B1, B2",निम्न
+1080,food,Noun,A1,खाना
+1081,foot,Noun,A1,खुट्टा
+1082,football,Noun,A1,फुटबल
+1083,for,prep.,A1,लागि
+1084,force,NounVerb,B1,शक्ति
+1085,foreign,Adjective,A2,विदेशी
+1086,forest,Noun,A2,जङ्गल
+1087,forever,Adverb,B1,सधैंभरि
+1088,forget,Verb,A1,भूल
+1089,forgive,Verb,B2,क्षमा
+1090,fork,Noun,A2,काँटा
+1091,form,NounVerb,A1,फारम
+1092,formal,Adjective,A2,औपचारिक
+1093,former,Adjective,B2,पूर्व
+1094,fortunately,Adverb,A2,भाग्यवस
+1095,fortune,Noun,B2,भाग्य
+1096,forty,number,A1,चालीस
+1097,forward,AdVerb Adjective,"A2, B2",अगाडि
+1098,found,Verb,B2,फेला
+1099,four,number,A1,चार
+1100,fourteen,number,A1,चौध
+1101,fourth,number,A1,चौथो
+1102,frame,NounVerb,B1,फ्रेम
+1103,free,"Adjective, AdVerb Verb","A1,A2,B2",मुक्त
+1104,freedom,Noun,B2,स्वतन्त्रता
+1105,freeze,Verb,B1,स्थिर
+1106,frequency,Noun,B2,आवृत्ति
+1107,frequently,Adverb,B1,प्राय
+1108,fresh,Adjective,A2,ताजा
+1109,Friday,Noun,A1,शुक्रवार
+1110,fridge,Noun,A2,फ्रिज
+1111,friend,Noun,A1,मित्र
+1112,friendly,Adjective,A1,मैत्री
+1113,friendship,Noun,B1,मित्रता
+1114,frighten,Verb,B1,भयभीत
+1115,frightened,Adjective,B1,डरा
+1116,frightening,Adjective,B1,भयावह
+1117,frog,Noun,A2,भ्यागुतो
+1118,from,prep,A1,बाट
+1119,front,Noun Adjective,A1,अगाडि
+1120,frozen,Adjective,B1,स्थिर
+1121,fruit,Noun,A1,फल
+1122,fry,Verb,B1,भुट्नु
+1123,fuel,Noun Verb,"B1, B2",इन्धन
+1124,full,Adjective,A1,पूर्ण
+1125,fully,Adverb,B2,पूर्णतया
+1126,fun,Noun Adjective,"A1, A2",रमाइलो
+1127,function,Noun Verb,"B1, B2",समारोह
+1128,fund,Noun Verb,B2,कोष
+1129,fundamental,Adjective,B2,मौलिक
+1130,funding,Noun,B2,कोष
+1131,funny,Adjective,A1,हास्यास्पद
+1132,fur,Noun,B1,फर
+1133,furniture,Noun,A2,फर्नीचर
+1134,further,"Adjective, Adverb","A2, B1",थप
+1135,furthermore,Adverb,B2,यसबाहेक
+1136,future,Noun Adjective,"A1, A2",भविष्यमा
+1137,gain,Verb Noun,B2,पाउनु
+1138,gallery,Noun,A2,ग्यालरी
+1139,game,Noun,A1,खेल
+1140,gang,Noun,B2,गिरोह
+1141,gap,Noun,A2,खाली
+1142,garage,Noun,B1,ग्यारेज
+1143,garden,Noun,A1,बगैचा
+1144,gas,Noun,A2,ग्याँस
+1145,gate,Noun,A2,गेट
+1146,gather,Verb,B1,भेला
+1147,general,Adjective,A2,सामान्य
+1148,generally,Adverb,B1,साधारणतया
+1149,generate,Verb,B2,उत्पन्न
+1150,generation,Noun,B1,पुस्ता
+1151,generous,Adjective,B1,उदार
+1152,genre,Noun,B2,विधा
+1153,gentle,Adjective,B1,कोमल
+1154,gentleman,Noun,B1,सज्जन
+1155,geography,Noun,A1,भूगोल
+1156,get,Verb,A1,प्राप्त
+1157,ghost,Noun,B1,भूत
+1158,giant,"Adjective, Noun",B1,विशाल
+1159,gift,Noun,A2,उपहार
+1160,girl,Noun,A1,केटी
+1161,girlfriend,Noun,A1,प्रेमिका
+1162,give,Verb,A1,दिनु
+1163,glad,Adjective,B1,खुसी
+1164,glass,Noun,A1,ग्लास
+1165,global,Adjective,B1,वैश्विक
+1166,glove,Noun,B1,पन्जा
+1167,go,Verb Noun,"A1, B1",गोमा
+1168,goal,Noun,A2,लक्ष्य
+1169,God,Noun,A2,भगवान
+1170,gold,Noun Adjective,A2,सुन
+1171,golf,Noun,A2,गल्फ
+1172,good,"Adjective, Noun","A1, A2",राम्रो
+1173,goodbye,exclam. Noun,A1,अलविदा
+1174,goods,Noun,B1,सामान
+1175,govern,Verb,B2,शासन
+1176,government,Noun,A2,सरकार
+1177,grab,Verb,B2,लिनु
+1178,grade,Noun Verb,"B1, B2",ग्रेड
+1179,gradually,Adverb,B2,बिस्तारै
+1180,graduate,Noun Verb,B1,स्नातक
+1181,grain,Noun,B1,अन्न
+1182,grand,Adjective,B2,महान्
+1183,grandfather,Noun,A1,हजुरबुबा
+1184,grandmother,Noun,A1,हजुरआमा
+1185,grandparent,Noun,A1,Grandparent
+1186,grant,Verb Noun,B2,अनुदान
+1187,grass,Noun,A2,घाँस
+1188,grateful,Adjective,B1,कृतज्ञ
+1189,great,Adjective,A1,ठूलो
+1190,green,"Adjective, Noun",A1,हरियो
+1191,greet,Verb,A2,अभिवादन
+1192,grey,"Adjective, Noun",A1,खैरो
+1193,ground,Noun,A2,जमीन
+1194,group,Noun,A1,समूह
+1195,grow,Verb,A1,बढ्न
+1196,growth,Noun,B1,वृद्धि
+1197,guarantee,Verb Noun,B2,ग्यारेन्टी
+1198,guard,Noun Verb,B1,गार्ड
+1199,guess,Verb Noun,A1,अनुमान
+1200,guest,Noun,A2,अतिथि
+1201,guide,Noun Verb,A2,पुस्तिका
+1202,guilty,Adjective,B1,दोषी
+1203,guitar,Noun,A1,गिटार
+1204,gun,Noun,A2,बन्दूक
+1205,guy,Noun,A2,मान्छे
+1206,gym,Noun,A1,जिम
+1207,habit,Noun,A2,बानी
+1208,hair,Noun,A1,बाल
+1209,half,"Noundet.proNoun, Adverb","A1, A2",आधा
+1210,hall,Noun,A2,हल
+1211,hand,Noun Verb,"A1, B1",हात
+1212,handle,Verb Noun,B2,ह्याण्डल
+1213,hang,Verb,B1,टास्नु
+1214,happen,Verb,A1,हुन
+1215,happily,Adverb,A2,खुसीको कुरा
+1216,happiness,Noun,B1,आनन्द
+1217,happy,Adjective,A1,खुसी
+1218,hard,"Adjective, Adverb",A1,कडा
+1219,hardly,Adverb,B1,मुश्किलले
+1220,harm,Noun Verb,B2,हानि
+1221,harmful,Adjective,B2,हानिकारक
+1222,hat,Noun,A1,टोपी
+1223,hate,Verb Noun,"A1, B1",घृणा
+1224,have,Verb auxiliary Verb,"A1, A2",छ
+1225,have to modal,Verb,A1,गर्न सर्वसाधारण
+1226,he,proNoun,A1,उहाँले
+1227,head,Noun Verb,"A1, B1",टाउको
+1228,headache,Noun,A2,टाउको दुखाइ
+1229,headline,Noun,B1,शीर्षक
+1230,health,Noun,A1,स्वास्थ्य
+1231,healthy,Adjective,A1,स्वस्थ
+1232,hear,Verb,A1,सुन्छ
+1233,hearing,Noun,B2,सुनुवाइ
+1234,heart,Noun,A2,मुटु
+1235,heat,Noun Verb,A2,गर्मी
+1236,heating,Noun,B1,ताप
+1237,heaven,Noun,B2,स्वर्ग
+1238,heavily,Adverb,B1,भारी
+1239,heavy,Adjective,A2,भारी
+1240,heel,Noun,B2,एडी
+1241,height,Noun,A2,उचाइ
+1242,helicopter,Noun,B1,हेलिकप्टर
+1243,hell,Noun,B2,नरक
+1244,hello,exclam./Noun,A1,नमस्ते
+1245,help,Verb Noun,A1,मद्दत
+1246,helpful,Adjective,A2,सहयोगी
+1247,her,proNoundet,A1,उनको
+1248,here,Adverb,A1,यहाँ
+1249,hero,Noun,A2,नायक
+1250,hers,proNoun,A2,hers
+1251,herself,proNoun,A2,आफु
+1252,hesitate,Verb,B2,संकोच
+1253,hey,exclam,A1,हे
+1254,hi,exclam,A1,नमस्ते
+1255,hide,Verb,A2,लुकाउनुहोस्
+1256,high,"Adjective, AdVerb Noun","A1, A2, B2",उच्च
+1257,highlight,Verb Noun,B1,हाइलाइट
+1258,highly,Adverb,B1,अत्यधिक
+1259,hill,Noun,A2,पहाडी
+1260,him,proNoun,A1,उहाँलाई
+1261,himself,proNoun,A2,आफूलाई
+1262,hire,Verb Noun,"B1, B2",किराया
+1263,his,det. proNoun,"A1, A2",आफ्नो
+1264,historic,Adjective,B1,ऐतिहासिक
+1265,historical,Adjective,B1,ऐतिहासिक
+1266,history,Noun,A1,इतिहास
+1267,hit,Verb Noun,A2,हिट
+1268,hobby,Noun,A1,शौक
+1269,hockey,Noun,A2,हकी
+1270,hold,Verb Noun,"A2, B2",पकड
+1271,hole,Noun,A2,प्वाल
+1272,holiday,Noun,A1,छुट्टी
+1273,hollow,Adjective,B2,खोक्रो
+1274,holy,Adjective,B2,पवित्र
+1275,home,Noun AdVerb Adjective,"A1, A2",घर
+1276,homework,Noun,A1,गृहकार्य
+1277,honest,Adjective,B1,इमानदार
+1278,honour,Noun Verb,B2,सम्मान
+1279,hope,Verb Noun,"A1, A2",आशा
+1280,horrible,Adjective,B1,भयानक
+1281,horror,Noun,B1,हरर
+1282,horse,Noun,A1,घोडा
+1283,hospital,Noun,A1,अस्पताल
+1284,host,Noun Verb,"B1, B2",पाहुना
+1285,hot,Adjective,A1,तातो
+1286,hotel,Noun,A1,होटल
+1287,hour,Noun,A1,घण्टा
+1288,house,Noun Verb,"A1, B2",घर
+1289,household,Noun,B2,घरेलू
+1290,housing,Noun,B2,आवास
+1291,how,Adverb,A1,कसरी
+1292,however,Adverb,A1,तथापि
+1293,huge,Adjective,A2,विशाल
+1294,human,"Adjective, Noun",A2,मानव
+1295,humorous,Adjective,B2,विनोदी
+1296,humour,Noun,B2,हास्य
+1297,hundred,number,A1,सय
+1298,hungry,Adjective,A1,भोक
+1299,hunt,Verb Noun,"B1, B2",शिकार
+1300,hunting,Noun,B2,शिकार
+1301,hurricane,Noun,B1,तूफान
+1302,hurry,Noun Verb,B1,हतार
+1303,hurt,Verb Adjective Noun,"A2, B2",दुख
+1304,husband,Noun,A1,पति
+1305,I,proNoun,A1,म
+1306,ice,Noun,A1,बरफ
+1307,ice cream,Noun,A1,आइसक्रिम
+1308,idea,Noun,A1,विचार
+1309,ideal,"Adjective , Noun","A2, B2",आदर्श
+1310,identify,Verb,A2,पहिचान
+1311,identity,Noun,B1,पहिचान
+1312,if,conj.,A1,यदि
+1313,ignore,Verb,B1,बेवास्ता
+1314,ill,Adjective,A2,बिरामी
+1315,illegal,Adjective,B1,अवैध
+1316,illness,Noun,A2,बिरामी
+1317,illustrate,Verb,B2,चित्रण
+1318,illustration,Noun,B2,दृष्टान्त
+1319,image,Noun,A2,छवि
+1320,imaginary,Adjective,B1,काल्पनिक
+1321,imagination,Noun,B2,कल्पना
+1322,imagine,Verb,A1,कल्पना
+1323,immediate,Adjective,B1,तत्काल
+1324,immediately,Adverb,A2,तुरुन्तै
+1325,immigrant,Noun,B1,आप्रवासी
+1326,impact,Noun Verb,B1,प्रभाव
+1327,impatient,Adjective,B2,अधैर्य
+1328,imply,Verb,B2,नबुझाउन
+1329,import,Noun Verb,B1,आयात
+1330,importance,Noun,B1,महत्त्व
+1331,important,Adjective,A1,महत्त्वपूर्ण
+1332,impose,Verb,B2,आयातित
+1333,impossible,Adjective,A2,असम्भव
+1334,impress,Verb,B2,Impress
+1335,impressed,Adjective,B2,प्रभावित
+1336,impression,Noun,B1,छाप
+1337,impressive,Adjective,B1,प्रभावशाली
+1338,improve,Verb,A1,सुधार
+1339,improvement,Noun,B1,सुधार
+1340,in,"prep., Adverb",A1,मा
+1341,inch,Noun,B2,इन्च
+1342,incident,Noun,B2,घटना
+1343,include,Verb,A1,समावेश
+1344,included,Adjective,A2,समावेश
+1345,including,prep.,A2,सहित
+1346,income,Noun,B2,आय
+1347,increase,Verb Noun,A2,बढ्नु
+1348,increasingly,Adverb,B2,झन्
+1349,incredible,Adjective,A2,अविश्वसनीय
+1350,incredibly,Adverb,B1,अविश्वसनीय
+1351,indeed,Adverb,B1,साँच्चै
+1352,independent,Adjective,A2,स्वतन्त्र
+1353,indicate,Verb,B1,संकेत
+1354,indirect,Adjective,B1,अप्रत्यक्ष
+1355,individual,"Noun, adj",A2,व्यक्तिगत
+1356,indoor,Adjective,B1,इन्डोर
+1357,indoors,Adverb,B1,घर भित्रका
+1358,industrial,Adjective,B2,औद्योगिक
+1359,industry,Noun,A2,उद्योग
+1360,infection,Noun,B2,संक्रमण
+1361,influence,NounVerb,B1,प्रभाव
+1362,inform,Verb,B2,सूचित
+1363,informal,Adjective,A2,अनौपचारिक
+1364,information,Noun,A1,जानकारी
+1365,ingredient,Noun,B1,संघटक
+1366,initial,Adjective,B2,सुरुमा
+1367,initially,Adverb,B2,सुरुमा
+1368,initiative,Noun,B2,पहल
+1369,injure,Verb,B1,चोट लाग्नु
+1370,injured,Adjective,B1,घाइते
+1371,injury,Noun,A2,चोट
+1372,inner,Adjective,B2,भित्री
+1373,innocent,Adjective,B1,निर्दोष
+1374,insect,Noun,A2,कीरा
+1375,inside,prep.Adverb Noun Adjective,A2,भित्र
+1376,insight,Noun,B2,अन्तरदृष्टि
+1377,insist,Verb,B2,जिद्दी
+1378,inspire,Verb,B2,प्रेरित
+1379,install,Verb,B2,स्थापना
+1380,instance,Noun,B2,उदाहरणका
+1381,instead,Adverb,A2,सट्टा
+1382,institute,Noun,B2,संस्थान
+1383,institution,Noun,B2,संस्थाले
+1384,instruction,Noun,A2,निर्देशन
+1385,instructor,Noun,A2,प्रशिक्षक
+1386,instrument,Noun,A2,साधन
+1387,insurance,Noun,B2,बीमा
+1388,intelligence,Noun,B1,बुद्धि
+1389,intelligent,Adjective,A2,बुद्धिमान
+1390,intend,Verb,B1,अभिप्राय
+1391,intended,Adjective,B2,इरादा
+1392,intense,Adjective,B2,तीव्र
+1393,intention,Noun,B1,इरादा
+1394,interest,Noun Verb,A1,चासो
+1395,interested,Adjective,A1,रुचि
+1396,interesting,Adjective,A1,रोचक
+1397,internal,Adjective,B2,आन्तरिक
+1398,international,Adjective,A2,अन्तर्राष्ट्रिय
+1399,internet,Noun,A1,इन्टरनेट
+1400,interpret,Verb,B2,व्याख्या
+1401,interrupt,Verb,B2,रोकावट
+1402,interview,Noun Verb,A1,साक्षात्कार
+1403,into,prep.,A1,मा
+1404,introduce,Verb,A1,परिचय
+1405,introduction,Noun,A2,परिचय
+1406,invent,Verb,A2,आविष्कार
+1407,invention,Noun,A2,आविष्कार
+1408,invest,Verb,B1,Invest
+1409,investigate,Verb,B1,छानबिन
+1410,investigation,Noun,B2,छानबिन
+1411,investment,Noun,B2,लगानी
+1412,invitation,Noun,A2,निमन्त्रणा
+1413,invite,Verb,A2,आमन्त्रण
+1414,involve,Verb,A2,समावेश
+1415,involved,Adjective,B1,मुछिनुभएको
+1416,iron,Noun Verb,B1,फलाम
+1417,island,Noun,A1,द्वीप
+1418,issue,"Noun, Verb","B1, B2",मुद्दा
+1419,IT,Noun,B1,आईटी
+1420,it,proNoun,A1,यसलाई
+1421,item,Noun,A2,वस्तु
+1422,its,det.,A1,यसको
+1423,itself,proNoun,A2,आफै
+1424,jacket,Noun,A1,ज्याकेट
+1425,jam,Noun,A2,जाम
+1426,January,Noun,A1,जनवरी
+1427,jazz,Noun,A2,ज्याज
+1428,jeans,Noun,A1,जिन्स
+1429,jewellery,Noun,A2,आभूषण
+1430,job,Noun,A1,काम
+1431,join,Verb,A1,सामेल
+1432,joke,Noun Verb,A2,मजाक
+1433,journal,Noun,B1,पत्रिका
+1434,journalist,Noun,A2,पत्रकार
+1435,journey,Noun,A1,यात्रा
+1436,joy,Noun,B2,आनन्द
+1437,judge,Noun Verb,B1,न्यायाधीश
+1438,judgement,Noun,B2,न्याय
+1439,juice,Noun,A1,रस
+1440,July,Noun,A1,जुलाई
+1441,jump,Verb Noun,A2,जम्प
+1442,June,Noun,A1,जुन
+1443,junior,Adjective,B2,जुनियर
+1444,just,Adverb,A1,बस
+1445,justice,Noun,B2,न्याय
+1446,justify,Verb,B2,सफाइ
+1447,keen,Adjective,B1,keen
+1448,keep,Verb,A1,राख्न
+1449,key,"Noun, Adjective Verb","A1, B1",प्रमुख
+1450,keyboard,Noun,B1,किबोर्ड
+1451,kick,Verb Noun,B1,किक
+1452,kid,Noun,A2,बच्चा
+1453,kill,Verb,A2,मार
+1454,killing,Noun,B1,हत्या
+1455,kilometre,Noun,A1,किलोमिटर
+1456,kind(type),Noun,A1,दयालु (प्रकार)
+1457,kind(caring),Adjective,B1,दयालु (मायालु)
+1458,king,Noun,A2,राजा
+1459,kiss,Verb Noun,B1,चुम्बन
+1460,kitchen,Noun,A1,भान्सा
+1461,knee,Noun,A2,गोडा
+1462,knife,Noun,A2,चक्कु
+1463,knock,"Verb , Noun","A2, B1",ठोक्नुहोस्
+1464,know,Verb,A1,जान्नुहुन्छ
+1465,knowledge,Noun,A2,ज्ञान
+1466,lab,Noun,A2,प्रयोगशाला
+1467,label,Noun Verb,B1,लेबल
+1468,laboratory,Noun,B1,प्रयोगशाला
+1469,labour,Noun,B2,श्रम
+1470,lack,Noun Verb,B1,कमी
+1471,lady,Noun,A2,महिला
+1472,lake,Noun,A2,ताल
+1473,lamp,Noun,A2,दीपक
+1474,land,"Noun, Verb","A1, A2",भूमि
+1475,landscape,Noun,B2,परिदृश्य
+1476,language,Noun,A1,भाषा
+1477,laptop,Noun,A2,ल्यापटप
+1478,large,Adjective,A1,ठूलो
+1479,largely,Adverb,B2,धेरै हदसम्म
+1480,last1 (final),"det., Adverb n","A1, A2",last1 (अन्तिम)
+1481,last1 (taking time),Verb,A2,last1 (लिइरहेको समय)
+1482,late,Adjective Adverb,A1,लेट
+1483,later,"Adverb , Adjective","A1, A2",पछि
+1484,latest,"Adjective , Noun","B1, B2",नवीनतम
+1485,laugh,Verb Noun,A1,हाँस
+1486,laughter,Noun,A2,हास्य
+1487,launch,Verb Noun,B2,लन्च
+1488,law,Noun,A2,कानुन
+1489,lawyer,Noun,A2,वकिल
+1490,lay,Verb,B1,Lay
+1491,layer,Noun,B1,पत्र
+1492,lazy,Adjective,A2,अल्छी
+1493,lead,"Verb , Noun","A2, B1",नेतृत्व
+1494,leader,Noun,A2,नेता
+1495,leadership,Noun,B2,नेतृत्व
+1496,leading,Adjective,B1,प्रमुख
+1497,leaf,Noun,B1,पात
+1498,league,Noun,B2,लिग
+1499,lean,Verb,B2,दुबला
+1500,learn,Verb,A1,सिक्न
+1501,learning,Noun,A2,सिक्ने
+1502,least,det./proNoun Adverb,A2,कम से कम
+1503,leather,Noun,B1,छाला
+1504,leave,"Verb , Noun","A1, B2",छोड
+1505,lecture,Noun Verb,A2,व्याख्यान
+1506,left,Adjective Adverb Verb,A1,बायाँ
+1507,leg,Noun,A1,खुट्टा
+1508,legal,Adjective,B1,कानुनी
+1509,leisure,Noun,B1,अवकाश
+1510,lemon,Noun,A2,कागति
+1511,lend,Verb,A2,उधारो
+1512,length,Noun,B1,लम्बाइ
+1513,less,det./pro Noun Adverb,A2,थोरै
+1514,lesson,Noun,A1,पाठ
+1515,let,Verb,A1,गरौं
+1516,letter,Noun,A1,पत्र
+1517,level,"Noun, Adjective , Verb","A2, B1, B2",स्तर
+1518,library,Noun,A1,पुस्तकालय
+1519,licence,Noun,B2,लाइसेन्स
+1520,lie,Verb,A1,झूट
+1521,lie,Verb Noun,B2,झूट
+1522,life,Noun,A1,जीवन
+1523,lifestyle,Noun,A2,जीवन शैली
+1524,lift,Verb,Noun,लिफ्ट
+1525,light (from the sun/a lamp),"Noun Adverb , Verb","A1, A2",प्रकाश (सूर्य देखि / बत्ती)
+1526,light (not heavy),Adjective,A2,प्रकाश (भारी छैन)
+1527,like (similar),prep.,A1,जस्तै (समान)
+1528,like (find sb/sth pleasant),"Verb , n","A1, B1",जस्तै (पाउन SB / sth सुखद)
+1529,Noun,B1,,संज्ञा
+1530,likely,Adjective,A2,सम्भवतः
+1531,limit,Noun Verb,B1,सीमा
+1532,limited,Adjective,B2,सीमित
+1533,line,"Noun, Verb","A1, B2",लाइन
+1534,link,Noun Verb,A2,लिङ्क
+1535,lion,Noun,A1,सिंह
+1536,lip,Noun,B1,ओठ
+1537,liquid,Noun Adjective,B1,तरल
+1538,list,Noun Verb,A1,सूची
+1539,listen,Verb,A1,सुन्न
+1540,listener,Noun,A2,श्रोता
+1541,literature,Noun,B1,साहित्य
+1542,little,"Adjective det./proNoun, Adverb","A1, A2",सानो
+1543,live1,Verb,A1,live1
+1544,live2,Adjective Adverb,B1,Live2
+1545,lively,Adjective,B2,सक्रिय
+1546,living,Adjective Noun,B1,जीवित
+1547,load,Noun Verb,B2,लोड
+1548,loan,Noun,B2,ऋण
+1549,local,"Adjective , Noun","A1, B1",स्थानिय
+1550,locate,Verb,B1,पत्ता लगाउन
+1551,located,Adjective,B1,स्थित
+1552,location,Noun,B1,स्थान
+1553,lock,Verb Noun,A2,लक
+1554,logical,Adjective,B2,तार्किक
+1555,lonely,Adjective,B1,एक्लो
+1556,long,Adjective Adverb,A1,लामो
+1557,long-term,Adjective Adverb,B2,लामो अवधि
+1558,look,"Verb , Noun","A1, A2",नजर
+1559,loose,Adjective,B2,ढीले
+1560,lord,Noun,B2,प्रभु
+1561,lorry,Noun,A2,लरी
+1562,lose,Verb,A1,गुमाउनु
+1563,loss,Noun,B1,हानि
+1564,lost,Adjective,A2,हराएको
+1565,lot,proNoun det. Adverb,A1,धेरै
+1566,loud,Adjective Adverb,A2,चर्को
+1567,loudly,Adverb,A2,ठूलो स्वरमा
+1568,love,Noun Verb,A1,प्रेम
+1569,lovely,Adjective,A2,राम्रो
+1570,low,"Adjective Adverb , n","A2, B2",कम
+1571,lower,Verb,B2,कम
+1572,luck,Noun,A2,भाग्य
+1573,lucky,Adjective,A2,भाग्यशाली
+1574,lunch,Noun,A1,भोजन
+1575,lung,Noun,B2,फोक्सो
+1576,luxury,Noun,B1,लक्जरी
+1577,machine,Noun,A1,मिसिन
+1578,mad,Adjective,B1,पागल
+1579,magazine,Noun,A1,पत्रिका
+1580,magic,Noun Adjective,B1,जादू
+1581,mail,Noun Verb,A2,मेल
+1582,main,Adjective,A1,मुख्य
+1583,mainly,Adverb,B1,मुख्य रूप
+1584,maintain,Verb,B2,कायम
+1585,major,Adjective,A2,प्रमुख
+1586,majority,Noun,B2,बहुमत
+1587,make,"Verb , Noun","A1, B2",बनाउन
+1588,male,Adjective Noun,A2,पुरुष
+1589,mall,Noun,B1,मल
+1590,man,Noun,A1,मानिस
+1591,manage,Verb,A2,व्यवस्थापन
+1592,management,Noun,B1,व्यवस्थापन
+1593,manager,Noun,A2,प्रबन्धक
+1594,manner,Noun,A2,तरिका
+1595,many,det./proNoun,A1,धेरै
+1596,map,"Noun, Verb","A1, B2",नक्शा
+1597,March,Noun,A1,मार्च
+1598,mark,Verb Noun,A2,मार्क
+1599,market,"Noun, Verb","A1, B1",बजार
+1600,marketing,Noun,B1,मार्केटिङ
+1601,marriage,Noun,B1,विवाह
+1602,married,Adjective,A1,विवाहित
+1603,marry,Verb,A2,विवाह
+1604,mass,Noun Adjective,B2,ठूलो
+1605,massive,Adjective,B2,विशाल
+1606,master,Noun Verb,B2,मास्टर
+1607,match (contest/correspond),Noun Verb,A1,मिलान (प्रतियोगिता / अनुरूप)
+1608,matching,Adjective,B2,मिल्दो
+1609,material,"Noun, Adjective","A2, B2",भौतिक
+1610,mathematics,Noun,A2,गणित
+1611,maths,Noun,A2,गणित
+1612,matter,Noun Verb,A2,कुरा
+1613,maximum,Adjective Noun,B2,अधिकतम
+1614,May,Noun,A1,सक्छ
+1615,may modal,Verb,A2,सर्वसाधारण सक्छ
+1616,maybe,Adverb,A1,हुनसक्छ
+1617,me,proNoun,A1,मलाई
+1618,meal,Noun,A1,खाना
+1619,mean,Verb,A1,अर्थ
+1620,meaning,Noun,A1,अर्थ
+1621,means,Noun,B2,माध्यम
+1622,meanwhile,Adverb,B1,यसैबीच
+1623,measure,Verb Noun,B1,उपाय
+1624,measurement,Noun,B2,मापन
+1625,meat,Noun,A1,मासु
+1626,media,Noun,A2,मिडिया
+1627,medical,Adjective,A2,चिकित्सा
+1628,medicine,Noun,A2,औषधी
+1629,medium,"Adjective , Noun","B1, B2",मध्यम
+1630,meet,Verb,A1,मिलन
+1631,meeting,Noun,A1,बैठक
+1632,melt,Verb,B2,पिघल
+1633,member,Noun,A1,सदस्य
+1634,memory,Noun,A2,स्मृति
+1635,mental,Adjective,B1,मानसिक
+1636,mention,"Verb , Noun","A2, B1",उल्लेख
+1637,menu,Noun,A1,मेनु
+1638,mess,Noun Verb,B1,गडबड
+1639,message,Noun,A1,सन्देश
+1640,metal,Noun,A2,धातु
+1641,method,Noun,A2,विधि
+1642,metre,Noun,A1,मीटर
+1643,middle,Noun Adjective,A2,मध्य
+1644,midnight,Noun,A1,मध्यरातमा
+1645,might modal,Verb,A2,सर्वसाधारण सक्छ
+1646,mild,Adjective,B1,नम्र
+1647,mile,Noun,A1,माइल
+1648,military,Adjective Noun,B2,सैन्य
+1649,milk,Noun,A1,दूध
+1650,million number,,A1,लाख नम्बर
+1651,mind,Noun Verb,A2,मन
+1652,mine (belongs to me),proNoun,A2,मेरो (मलाई पर्छ)
+1653,mine (hole in the ground),Noun,B1,मेरो (जमीन मा प्वाल)
+1654,mineral,Noun,B2,खनिज
+1655,minimum,Adjective Noun,B2,न्यूनतम
+1656,minister,Noun,B2,मन्त्री
+1657,minor,Adjective,B2,सानातिना
+1658,minority,Noun,B2,अल्पसंख्यक
+1659,minute,Noun,A1,मिनेट
+1660,mirror,Noun,A2,दर्पण
+1661,miss,Verb,A1,मिस
+1662,missing,Adjective,A2,हराइरहेको
+1663,mission,Noun,B2,मिसन
+1664,mistake,"Noun, Verb","A1, B2",गल्ती
+1665,mix,Verb Noun,B1,मिश्रण
+1666,mixed,Adjective,B2,मिश्रित
+1667,mixture,Noun,B1,मिश्रण
+1668,mobile,Adjective Noun,A2,मोबाइल
+1669,model,"Noun, Verb","A1, B2",मोडेल
+1670,modern,Adjective,A1,आधुनिक
+1671,modify,Verb,B2,सुधारे
+1672,moment,Noun,A1,क्षण
+1673,Monday,Noun,A1,सोमवार
+1674,money,Noun,A1,पैसा
+1675,monitor,Noun Verb,B2,मनिटर
+1676,monkey,Noun,A2,बाँदर
+1677,month,Noun,A1,महिना
+1678,mood,Noun,B1,मुड
+1679,moon,Noun,A2,चन्द्र
+1680,moral,Adjective Noun,B2,नैतिक
+1681,more,det./proNoun Adverb,A1,थप
+1682,morning,Noun,A1,बिहान
+1683,most,det./proNoun Adverb,A1,सबै भन्दा
+1684,mostly,Adverb,A2,ज्यादातर
+1685,mother,Noun,A1,आमा
+1686,motor,Noun Adjective,B2,मोटर
+1687,motorcycle,Noun,A2,मोटरसाइकल
+1688,mount,Verb,B2,माउन्ट
+1689,mountain,Noun,A1,पर्वत
+1690,mouse,Noun,A1,माउस
+1691,mouth,Noun,A1,मुख
+1692,move,"Verb , Noun","A1, B1",चल्नु
+1693,movement,Noun,A2,आन्दोलन
+1694,movie,Noun,A1,चलचित्र
+1695,much,det./proNoun Adverb,A1,धेरै
+1696,mud,Noun,B1,माटोको
+1697,multiple,Adjective,B2,धेरै
+1698,multiply,Verb,B2,गुणन
+1699,mum,Noun,A1,आमा
+1700,murder,NounVerb,B1,हत्या
+1701,muscle,Noun,B1,मासु
+1702,museum,Noun,A1,संग्रहालय
+1703,music,Noun,A1,संगीत
+1704,musical,"Adjective , Noun","A2, B1",सांगीतिक
+1705,musician,Noun,A2,संगीतकार
+1706,must modal,Verb,A1,सर्वसाधारण पर्छ
+1707,my,det.,A1,मेरो
+1708,myself,proNoun,A2,आफैलाई
+1709,mysterious,Adjective,B2,रहस्यमय
+1710,mystery,Noun,B1,रहस्य
+1711,nail,Noun,B1,नङ
+1712,name,Noun Verb,A1,नाम
+1713,narrative,Noun Adjective,B1,narrative
+1714,narrow,"Adjective , Verb","A2, B2",साँघुरो
+1715,nation,Noun,B1,राष्ट्र
+1716,national,"Adjective , Noun","A2, B2",राष्ट्रिय
+1717,native,Adjective Noun,B1,देशी
+1718,natural,Adjective,A1,प्राकृतिक
+1719,naturally,Adverb,B1,स्वाभाविक
+1720,nature,Noun,A2,प्रकृति
+1721,near,prep. Adjective Adverb,A1,नजिकै
+1722,nearly,Adverb,A2,लगभग
+1723,neat,Adjective,B2,चिटिक्क
+1724,necessarily,Adverb,B1,आवश्यक
+1725,necessary,Adjective,A2,आवश्यक
+1726,neck,Noun,A2,घाँटी
+1727,need,"Verb , Noun, modal Verb","A1, A2, B1",आवश्यकता
+1728,needle,Noun,B1,सुई
+1729,negative,"Adjective , Noun","A1, B2",नकारात्मक
+1730,neighbour,Noun,A1,छिमेकी
+1731,neighbourhood,Noun,B1,छिमेकी
+1732,neither,"det./proNoun, Adverb","A2, B1",न
+1733,nerve,Noun,B2,स्नायु
+1734,nervous,Adjective,A2,स्नायु
+1735,net,Noun,B1,नेट
+1736,network,Noun,A2,नेटवर्क
+1737,never,Adverb,A1,कहिल्यै
+1738,nevertheless,Adverb,B2,तैपनि
+1739,new,Adjective,A1,नयाँ
+1740,news,Noun,A1,समाचार
+1741,newspaper,Noun,A1,अखबार
+1742,next,"Adjective Adverb , Noun","A1, B1",अर्को
+1743,next to,prep.,A1,अर्को गर्न
+1744,nice,Adjective,A1,राम्रो
+1745,night,Noun,A1,रात
+1746,nightmare,Noun,B2,डरलाग्दो सपना
+1747,nine,number,A1,नौ
+1748,nineteen,number,A1,उन्नाइस
+1749,ninety,number,A1,नब्बे
+1750,no,exclam. det.,A1,कुनै
+1751,no one,proNoun,A1,कोही पनि हैन
+1752,nobody,proNoun,A1,कसैले
+1753,noise,Noun,A2,हल्ला
+1754,noisy,Adjective,A2,हल्ला
+1755,none,pro Noun,A2,कुनै पनि
+1756,nor,conj./Adverb,B1,न त
+1757,normal,"Adjective , Noun","A2, B1",सामान्य
+1758,normally,Adverb,A2,सामान्यतया
+1759,north,Noun Adjective Adverb,A1,उत्तर
+1760,northern,Adjective,B1,उत्तरी
+1761,nose,Noun,A1,नाक
+1762,not,Adverb,A1,छैन
+1763,note,Noun Verb,"A1, B1",नोट
+1764,nothing,proNoun,A1,केही
+1765,notice,Verb Noun,A2,सूचना
+1766,notion,Noun,B2,धारणा
+1767,novel,Noun,A2,उपन्यास
+1768,November,Noun,A1,नोभेम्बर
+1769,now,"Adverb , conj.","A1, B1",अब
+1770,nowhere,Adverb,A2,कतै
+1771,nuclear,Adjective,B1,आणविक
+1772,number,"Noun, Verb","A1, A2",नम्बर
+1773,numerous,Adjective,B2,धेरै
+1774,nurse,Noun,A1,नर्स
+1775,nut,Noun,A2,नट
+1776,obey,Verb,B2,पालन
+1777,object,Noun Verb,"A1, B2",वस्तु
+1778,objective,Noun Adjective,B2,उद्देश्य
+1779,obligation,Noun,B2,दायित्व
+1780,observation,Noun,B2,अवलोकन
+1781,observe,Verb,B2,पालन
+1782,obtain,Verb,B2,प्राप्त
+1783,obvious,Adjective,B1,स्पष्ट
+1784,obviously,Adverb,B1,स्पष्ट
+1785,occasion,Noun,B1,अवसर
+1786,occasionally,Adverb,B2,कहिले काँही
+1787,occur,Verb,B1,उत्पन्न
+1788,ocean,Noun,A2,समुद्र
+1789,o’clock,Adverb,A1,बजे
+1790,October,Noun,A1,अक्टोबर
+1791,odd,Adjective,B1,अनौठो
+1792,of,prep.,A1,को
+1793,off,Adverb prep.,A1,बन्द
+1794,offence,Noun,B2,ठेस
+1795,offend,Verb,B2,अपमान
+1796,offensive,Adjective,B2,आपत्तिजनक
+1797,offer,Verb Noun,A2,प्रस्ताव
+1798,office,Noun,A1,कार्यालय
+1799,officer,Noun,A2,अधिकारी
+1800,official,"Adjective , Noun","B1, B2",सरकारी
+1801,often,Adverb,A1,अक्सर
+1802,oh,exclam.,A1,ओह
+1803,oil,Noun,A2,तेल
+1804,OK,exclam. Adjective /Adverb,A1,ठिक छ
+1805,old,Adjective,A1,पुरानो
+1806,old-fashioned,Adjective,B1,पुरानो जमानाको
+1807,on,prep. Adverb,A1,मा
+1808,once,"Adverb , conj.","A1, B1",एक पटक
+1809,one,number-det. proNoun,A1,एक
+1810,onion,Noun,A1,प्याज
+1811,online,Adjective Adverb,A1,अनलाइन
+1812,only,Adjective Adverb,A1,मात्र
+1813,onto,prep.,A2,मा
+1814,open,Adjective Verb,A1,खुला
+1815,opening,Noun,B2,उद्घाटन
+1816,operate,Verb,B2,सञ्चालन
+1817,operation,Noun,B1,सञ्चालन
+1818,opinion,Noun,A1,राय
+1819,opponent,Noun,B2,विरोधी
+1820,opportunity,Noun,A2,मौका
+1821,oppose,Verb,B2,विरोध
+1822,opposed,Adjective,B2,विरोध
+1823,opposite,Adjective Adverb prep. Noun,A1,विपरीत
+1824,opposition,Noun,B2,विरोध
+1825,option,Noun,A2,विकल्प
+1826,or,conj.,A1,वा
+1827,orange,Noun Adjective,A1,सुन्तला
+1828,order,Noun Verb,A1,अर्डर
+1829,ordinary,Adjective,A2,साधारण
+1830,organ,Noun,B2,अंग
+1831,organization,Noun,A2,संगठन
+1832,organize,Verb,A2,संगठित
+1833,organized,Adjective,B1,संगठित
+1834,organizer,Noun,B1,आयोजक
+1835,origin,Noun,B2,मूल
+1836,original,"Adjective , Noun","A2, B1",मूल
+1837,originally,Adverb,B1,मूल
+1838,other,Adjective /proNoun,A1,अन्य
+1839,otherwise,Adverb,B2,अन्यथा
+1840,ought,modal Verb,B1,पर्छ
+1841,our,det.,A1,हाम्रो
+1842,ours,proNoun,B1,हाम्रो
+1843,ourselves,proNoun,A2,आफूलाई
+1844,out,Adverb /prep.,A1,बाहिर
+1845,outcome,Noun,B2,नतिजा
+1846,outdoor,Adjective,B1,आउटडोर
+1847,outdoors,Adverb,B1,बाहिर
+1848,outer,Adjective,B2,बाहिरी
+1849,outline,Noun Verb,B2,रूपरेखा
+1850,outside,"Adverb , prep. nouNoun Adjective","A1, A2",बाहिर
+1851,oven,Noun,A2,ओवन
+1852,over,prep. Adverb,A1,माथि
+1853,overall,Adjective Adverb,B2,कुल मिलाएर
+1854,owe,Verb,B2,योगदान
+1855,own,"Adjective /proNoun, Verb","A1, A2",आफ्नै
+1856,owner,Noun,A2,मालिक
+1857,pace,"Noun, Verb",B2,गति
+1858,pack,"Verb , Noun","A2, B1",प्याक
+1859,package,"Noun, Verb","B1, B2",प्याकेज
+1860,page,Noun,A1,पृष्ठ
+1861,pain,Noun,A2,दुखाइ
+1862,painful,Adjective,B1,पीडादायी
+1863,paint,Verb Noun,A1,रंग
+1864,painter,Noun,A2,चित्रकार
+1865,painting,Noun,A1,चित्रकला
+1866,pair,Noun,A1,जोडी
+1867,palace,Noun,A2,दरबार
+1868,pale,Adjective,B1,पीला
+1869,pan,Noun,B1,पैन
+1870,panel,Noun,B2,प्यानल
+1871,pants,Noun,A2,प्यान्ट
+1872,paper,Noun,A1,कागज
+1873,paragraph,Noun,A1,अनुच्छेद
+1874,parent,Noun,A1,अभिभावक
+1875,park,Noun Verb,A1,पार्क
+1876,parking,Noun,A2,पार्किङ
+1877,parliament,Noun,B2,संसद
+1878,part,Noun,A1,भाग
+1879,participant,Noun,B2,सहभागी
+1880,participate,Verb,B1,भाग
+1881,particular,Adjective,A2,विशेष
+1882,particularly,Adverb,B1,खास गरी
+1883,partly,Adverb,B2,आंशिक
+1884,partner,Noun,A1,साथी
+1885,party,Noun,A1,पार्टी
+1886,pass,"Verb , Noun","A2, B1",पारित
+1887,passage,Noun,B2,खण्डमा
+1888,passenger,Noun,A2,यात्री
+1889,passion,Noun,B1,आवेग
+1890,passport,Noun,A1,राहदानी
+1891,past,"Adjective Noun prep., Adverb","A1, A2",विगतका
+1892,path,Noun,B1,बाटो
+1893,patient,"Noun, Adjective","A2, B2",बिरामी
+1894,pattern,Noun,A2,ढाँचा
+1895,pay,"Verb , Noun","A1, A2",तलब
+1896,payment,Noun,B1,भुक्तानी
+1897,peace,Noun,A2,शान्ति
+1898,peaceful,Adjective,B1,शान्तिपूर्ण
+1899,pen,Noun,A1,कलम
+1900,pencil,Noun,A1,पेन्सिल
+1901,penny,Noun,A2,मुद्रा
+1902,pension,Noun,B2,पेन्सन
+1903,people,Noun,A1,मान्छे
+1904,pepper,Noun,A1,मरिच
+1905,per,prep.,A2,प्रति
+1906,per cent,Noun Adjective /Adverb,A2,प्रतिशत
+1907,percentage,Noun,B1,प्रतिशत
+1908,perfect,Adjective,A1,सिद्ध
+1909,perfectly,Adverb,B1,पूर्ण
+1910,perform,Verb,A2,प्रदर्शन
+1911,performance,Noun,B1,प्रदर्शन
+1912,perhaps,Adverb,A2,सायद
+1913,period,Noun,A1,अवधि
+1914,permanent,Adjective,B2,स्थायी
+1915,permission,Noun,A2,अनुमति
+1916,permit,Verb Noun,B2,अनुमति
+1917,person,Noun,A1,व्यक्ति
+1918,personal,Adjective,A1,व्यक्तिगत
+1919,personality,Noun,A2,व्यक्तित्व
+1920,personally,Adverb,B1,व्यक्तिगत
+1921,perspective,Noun,B2,दृष्टिकोण
+1922,persuade,Verb,B1,सम्भ्काउनु
+1923,pet,Noun,A2,पाल्तु जनावर
+1924,petrol,Noun,A2,पेट्रोल
+1925,phase,Noun,B2,चरण
+1926,phenomenon,Noun,B2,घटना
+1927,philosophy,Noun,B2,दर्शन
+1928,phone,Noun Verb,A1,फोन
+1929,photo,Noun,A1,फोटो
+1930,photograph,"Noun, Verb","A1, A2",तस्वीर
+1931,photographer,Noun,B1,फोटोग्राफर
+1932,photography,Noun,B1,फोटोग्राफी
+1933,phrase,Noun,A1,वाक्यांश
+1934,physical,Adjective,A2,शारीरिक
+1935,physics,Noun,A2,भौतिक
+1936,piano,Noun,A1,पियानो
+1937,pick,"Verb , Noun","A2, B2",छनोट
+1938,picture,"Noun, Verb","A1, B2",तस्वीर
+1939,piece,Noun,A1,टुक्रा
+1940,pig,Noun,A1,सुँगुर
+1941,pile,Noun Verb,B2,थुप्रो
+1942,pilot,Noun,A2,पायलट
+1943,pin,Noun Verb,B1,पिन
+1944,pink,Adjective Noun,A1,गुलाबी
+1945,pipe,Noun,B1,पाइप
+1946,pitch,Noun,B2,पिच
+1947,place,Noun Verb,"A1, B1",ठाउँ
+1948,plain,Adjective,B2,सादा
+1949,plan,Noun Verb,A1,योजना
+1950,plane,Noun,A1,विमान
+1951,planet,Noun,A2,ग्रह
+1952,planning,Noun,B1,योजना
+1953,plant,Noun Verb,"A1, A2",बोट
+1954,plastic,Noun Adjective,A2,प्लास्टिक
+1955,plate,Noun,A2,प्लेट
+1956,platform,Noun,A2,मंच
+1957,play,Verb Noun,A1,खेल्नु
+1958,player,Noun,A1,खेलाडी
+1959,pleasant,Adjective,B1,सुखद
+1960,please,"exclam., Verb","A1, A2",कृपया
+1961,pleased,Adjective,A2,खुसी
+1962,pleasure,Noun,B1,खुशी
+1963,plenty,proNoun,B1,प्रशस्त
+1964,plot,"Noun, Verb","B1, B2",षड्यन्त्र
+1965,plus,"prep., Adjective conj., Noun","B1, B2",प्लस
+1966,pocket,Noun,A2,खल्ती
+1967,poem,Noun,B1,कविता
+1968,poet,Noun,B1,कवि
+1969,poetry,Noun,B1,कविता
+1970,point,"Noun, Verb","A1, B1",बिन्दु
+1971,pointed,Adjective,B2,चुच्चा
+1972,poison,Noun Verb,B1,विष
+1973,poisonous,Adjective,B1,विषालु
+1974,police,Noun,A1,प्रहरी
+1975,policeman,Noun,A1,प्रहरी
+1976,policy,Noun,B1,नीति
+1977,polite,Adjective,A2,भद्र
+1978,political,Adjective,B1,राजनीतिक
+1979,politician,Noun,B1,राजनीतिज्ञ
+1980,politics,Noun,B1,राजनीति
+1981,pollution,Noun,A2,प्रदूषण
+1982,pool,Noun,A1,पूल
+1983,poor,Adjective,A1,गरिब
+1984,pop,Noun Adjective,A2,पप
+1985,popular,Adjective,A1,लोकप्रिय
+1986,popularity,Noun,B2,लोकप्रियता
+1987,population,Noun,A2,जनसंख्या
+1988,port,Noun,B1,पोर्ट
+1989,portrait,Noun,B1,पोर्ट्रेट
+1990,pose,Verb,B2,पोज
+1991,position,"Noun, Verb","A2, B2",स्थिति
+1992,positive,"Adjective , Noun","A1, B2",सकारात्मक
+1993,possess,Verb,B2,अधिकार
+1994,possession,Noun,A2,सम्पत्तिको
+1995,possibility,Noun,A2,संभावना
+1996,possible,Adjective,A1,सम्भव
+1997,possibly,Adverb,B1,संभवतः
+1998,post,Noun Verb,A1,पोस्ट
+1999,poster,Noun,A2,पोस्टर
+2000,pot,Noun,B1,पट
+2001,potato,Noun,A1,आलु
+2002,potential,Adjective Noun,B2,सम्भावित
+2003,pound,Noun,A1,पाउन्ड
+2004,pour,Verb,B1,खन्याउन
+2005,poverty,Noun,B1,गरिबी
+2006,powder,Noun,B1,पाउडर
+2007,power,"Noun, Verb","A2, B2",शक्ति
+2008,powerful,Adjective,B1,शक्तिशाली
+2009,practical,Adjective,B1,व्यावहारिक
+2010,practice,Noun,A1,अभ्यास
+2011,practise,Verb,A1,अभ्यास
+2012,praise,Noun Verb,B2,प्रशंसा
+2013,pray,Verb,B1,प्रार्थना
+2014,prayer,Noun,B1,प्रार्थना
+2015,predict,Verb,A2,भविष्यवाणी
+2016,prediction,Noun,B1,भविष्यवाणी
+2017,prefer,Verb,A1,रुचि
+2018,pregnant,Adjective,B2,गर्भवती
+2019,preparation,Noun,B2,तयारी
+2020,prepare,Verb,A1,तयार
+2021,prepared,Adjective,B1,तयार
+2022,presence,Noun,B2,उपस्थिति
+2023,present,"Adjective Noun, Verb","A1, A2",वर्तमान
+2024,presentation,Noun,B1,प्रस्तुति
+2025,preserve,Verb,B2,संरक्षण
+2026,president,Noun,A2,राष्ट्रपति
+2027,press,Verb Noun,B1,प्रेस
+2028,pressure,Noun,B1,दबाब
+2029,pretend,Verb,B1,बहाना
+2030,pretty,Adjective Adverb,A1,राम्रो
+2031,prevent,Verb,A2,रोकन
+2032,previous,Adjective,B1,अघिल्लो
+2033,previously,Adverb,B1,पहिले
+2034,price,"Noun, Verb","A1, B2",मूल्य
+2035,priest,Noun,B1,पुजारी
+2036,primary,Adjective,B1,प्राथमिक
+2037,prime,Adjective,B2,प्रधानमन्त्री
+2038,prince,Noun,B1,राजकुमार
+2039,princess,Noun,B1,राजकुमारी
+2040,principle,Noun,B2,सिद्धान्त
+2041,print,"Verb , Noun","A2, B2",प्रिन्ट
+2042,printer,Noun,A2,मुद्रक
+2043,printing,Noun,B1,मुद्रण
+2044,priority,Noun,B2,प्राथमिकता
+2045,prison,Noun,A2,जेल
+2046,prisoner,Noun,B1,कैदी
+2047,privacy,Noun,B2,गोपनीयता
+2048,private,Adjective,B1,निजी
+2049,prize,Noun,A2,पुरस्कार
+2050,probably,Adverb,A1,शायद
+2051,problem,Noun,A1,समस्या
+2052,procedure,Noun,B2,प्रक्रिया
+2053,process,"Noun, Verb","A2, B2",प्रक्रिया
+2054,produce,"Verb , Verb","A2, B2",उत्पादन गर्न
+2055,producer,Noun,B1,निर्माता
+2056,product,Noun,A1,उत्पादन
+2057,production,Noun,B1,उत्पादन
+2058,profession,Noun,B1,पेशा
+2059,professional,"Adjective , Noun","A2, B2",व्यावसायिक
+2060,professor,Noun,A2,प्रोफेसर
+2061,profile,Noun,A2,प्रोफाइल
+2062,profit,Noun,B1,मुनाफा
+2063,program,"Noun, Verb","A2, B1",कार्यक्रम
+2064,programme,Noun,A1,कार्यक्रम
+2065,progress,"Noun, Verb","A2, B2",प्रगति
+2066,project,"Noun, Verb","A1, B2",परियोजना
+2067,promise,Verb Noun,A2,प्रतिज्ञा
+2068,promote,Verb,B1,प्रचार
+2069,pronounce,Verb,A2,उच्चारण
+2070,proof,Noun,B2,प्रमाण
+2071,proper,Adjective,B1,उचित
+2072,properly,Adverb,B1,ठीक
+2073,property,Noun,B1,सम्पत्ति
+2074,proposal,Noun,B2,प्रस्ताव
+2075,propose,Verb,B2,प्रस्तावित
+2076,prospect,Noun,B2,प्रत्याशा
+2077,protect,Verb,A2,रक्षा
+2078,protection,Noun,B2,सुरक्षा
+2079,protest,Noun Verb,B1,विरोध
+2080,proud,Adjective,B1,गर्व
+2081,prove,Verb,B1,प्रमाणित
+2082,provide,Verb,A2,प्रदान
+2083,psychologist,Noun,B2,मनोवैज्ञानिक
+2084,psychology,Noun,B2,मनोविज्ञान
+2085,pub,Noun,A2,पब
+2086,public,Adjective Noun,A2,सार्वजनिक
+2087,publication,Noun,B2,प्रकाशन
+2088,publish,Verb,A2,प्रकाशित
+2089,pull,"Verb , Noun","A2, B1",खींच
+2090,punish,Verb,B1,दण्ड
+2091,punishment,Noun,B1,सजाय
+2092,pupil,Noun,B2,छात्र
+2093,purchase,Noun Verb,B2,खरिद
+2094,pure,Adjective,B2,शुद्ध
+2095,purple,Adjective Noun,A1,बैजनी
+2096,purpose,Noun,A2,उद्देश्य
+2097,pursue,Verb,B2,पछि लाग्न
+2098,push,"Verb , Noun","A2, B1",पुस
+2099,put,Verb,A1,राख्नु
+2100,qualification,Noun,B1,योग्यता
+2101,qualified,Adjective,B1,योग्य
+2102,qualify,Verb,B1,योग्य
+2103,quality,Noun,A2,गुणस्तर
+2104,quantity,Noun,A2,मात्रा
+2105,quarter,Noun,A1,चौथाई
+2106,queen,Noun,A2,रानी
+2107,question,"Noun, Verb","A1, A2",प्रश्न
+2108,queue,Noun Verb,B1,लाम
+2109,quick,Adjective,A1,द्रुत
+2110,quickly,Adverb,A1,चाँडै
+2111,quiet,Adjective,A1,शान्त
+2112,quietly,Adverb,A2,चुपचाप
+2113,quit,Verb,B1,अन्त्य
+2114,quite,Adverb,A1,एकदम
+2115,quotation,Noun,B1,उद्धरण
+2116,quote,Verb Noun,B1,उद्धरण
+2117,race (competition),NounVerb,A2,दौड (प्रतियोगिता)
+2118,race (people),Noun,B1,दौड (मान्छे)
+2119,racing,Noun,B1,दौड
+2120,radio,Noun,A1,रेडियो
+2121,railway,Noun,A2,रेलवे
+2122,rain,Noun Verb,A1,वर्षा
+2123,raise,Verb,A2,खडा
+2124,range,"Noun, Verb","B1, B2",सीमा
+2125,rank,Noun Verb,B2,रैंक
+2126,rapid,Adjective,B2,तीव्र
+2127,rapidly,Adverb,B2,तीव्र गतिमा
+2128,rare,Adjective,B1,दुर्लभ
+2129,rarely,Adverb,B1,शायद
+2130,rate,"Noun, Verb","A2, B2",दर
+2131,rather,Adverb,A2,बरु
+2132,raw,Adjective,B2,कच्चा
+2133,reach,"Verb , Noun","A2, B2",पुग्नु
+2134,react,Verb,A2,प्रतिक्रिया
+2135,reaction,Noun,B1,प्रतिक्रिया
+2136,read,Verb,A1,पढ्न
+2137,reader,Noun,A1,पाठक
+2138,reading,Noun,A1,पढाइ
+2139,ready,Adjective,A1,तयार
+2140,real,Adjective,A1,वास्तविक
+2141,realistic,Adjective,B2,व्यावहारिक
+2142,reality,Noun,B1,वास्तविकता
+2143,realize,Verb,A2,महसुस
+2144,really,Adverb,A1,साँच्चै
+2145,reason,Noun,A1,कारण
+2146,reasonable,Adjective,B2,उचित
+2147,recall,Verb,B2,यसरी सम्झन्छन्
+2148,receipt,Noun,B1,रसिद
+2149,receive,Verb,A2,प्राप्त
+2150,recent,Adjective,A2,हाल
+2151,recently,Adverb,A2,हालै
+2152,reception,Noun,A2,स्वागत
+2153,recipe,Noun,A2,नुस्खा
+2154,recognize,Verb,A2,पहिचान
+2155,recommend,Verb,A2,सिफारिस
+2156,recommendation,Noun,B1,सिफारिस
+2157,record,Noun Verb,A2,रेकर्ड
+2158,recording,Noun,A2,रेकर्डिङ
+2159,recover,Verb,B2,ठीक
+2160,recycle,Verb,A2,रीसायकल
+2161,red,Adjective Noun,A1,रातो
+2162,reduce,Verb,A2,कम
+2163,reduction,Noun,B2,कमी
+2164,refer,Verb,A2,उल्लेख
+2165,reference,Noun,B1,सन्दर्भ
+2166,reflect,Verb,B1,प्रतिबिम्बित
+2167,refuse,Verb,A2,इन्कार
+2168,regard,Verb Noun,B2,सन्दर्भमा
+2169,region,Noun,A2,क्षेत्र
+2170,regional,Adjective,B2,क्षेत्रीय
+2171,register,Verb Noun,B2,दर्ता
+2172,regret,Verb Noun,B2,आफूले पछुतो मान्ने
+2173,regular,Adjective,A2,नियमित
+2174,regularly,Adverb,B1,नियमित
+2175,regulation,Noun,B2,विनियमन
+2176,reject,Verb,B1,अस्वीकार
+2177,relate,Verb,B1,सम्बन्धित
+2178,related,Adjective,B1,सम्बन्धित
+2179,relation,Noun,B1,सम्बन्ध
+2180,relationship,Noun,A2,सम्बन्ध
+2181,relative,Adjective Noun,B1,सापेक्षिक
+2182,relatively,Adverb,B2,अपेक्षाकृत
+2183,relax,Verb,A1,आराम
+2184,relaxed,Adjective,B1,आराम
+2185,relaxing,Adjective,B1,आराम
+2186,release,Verb Noun,B1,जारी
+2187,relevant,Adjective,B2,सान्दर्भिक
+2188,reliable,Adjective,B1,विश्वसनीय
+2189,relief,Noun,B2,राहत
+2190,religion,Noun,B1,धर्म
+2191,religious,Adjective,B1,धार्मिक
+2192,rely,Verb,B2,भरोसा
+2193,remain,Verb,B1,बाँकी
+2194,remark,Noun Verb,B2,भन्नु
+2195,remember,Verb,A1,सम्झनु
+2196,remind,Verb,B1,सम्झाउने
+2197,remote,Adjective,B1,रिमोट
+2198,remove,Verb,A2,हटान
+2199,rent,Noun Verb,B1,भाडामा
+2200,repair,"Verb , Noun","A2, B1",मरम्मत
+2201,repeat,"Verb , Noun","A1, B1",दोहोरिने
+2202,repeated,Adjective,B1,पटक-पटक
+2203,replace,Verb,A2,प्रतिस्थापन
+2204,reply,Verb Noun,A2,जवाफ
+2205,report,"Noun, Verb","A1, A2",रिपोर्ट
+2206,reporter,Noun,A2,रिपोर्टर
+2207,represent,Verb,B1,प्रतिनिधित्व
+2208,representative,Noun Adjective,B2,प्रतिनिधि
+2209,reputation,Noun,B2,प्रतिष्ठा
+2210,request,"Noun, Verb","A2, B1",अनुरोध
+2211,require,Verb,B1,आवश्यक
+2212,requirement,Noun,B2,आवश्यकता
+2213,rescue,Verb Noun,B2,उद्धार गर्नु
+2214,research,Noun Verb,A2,अनुसन्धान
+2215,researcher,Noun,A2,शोधकर्ता
+2216,reservation,Noun,B1,आरक्षण
+2217,reserve,Noun Verb,B2,आरक्षित
+2218,resident,NounAdjective,B2,निवासी
+2219,resist,Verb,B2,प्रतिरोध
+2220,resolve,Verb,B2,संकल्प
+2221,resort,Noun,B2,रिसोर्टमा
+2222,resource,Noun,B1,स्रोत
+2223,respect,Noun Verb,B1,आदर
+2224,respond,Verb,A2,प्रतिक्रिया
+2225,response,Noun,A2,प्रतिक्रिया
+2226,responsibility,Noun,B1,जिम्मेवारी
+2227,responsible,Adjective,B1,जिम्मेवार
+2228,rest (remaining part),Noun,A2,आराम (बाँकी अंश)
+2229,rest (sleep/relax),Noun Verb,A2,बाँकी (निद्रामा / आराम)
+2230,restaurant,Noun,A1,रेस्टुरेन्ट
+2231,result,"Noun, Verb","A1, B1",परिणाम
+2232,retain,Verb,B2,राख्ने
+2233,retire,Verb,B1,रिटायर
+2234,retired,Adjective,B1,सेवानिवृत्त
+2235,return,Verb Noun,A1,फर्किनु
+2236,reveal,Verb,B2,प्रकट
+2237,review,Noun Verb,A2,समीक्षा
+2238,revise,Verb,B1,फेरि जाच्नु
+2239,revolution,Noun,B2,क्रान्ति
+2240,reward,Noun Verb,B2,इनाम
+2241,rhythm,Noun,B2,ताल
+2242,rice,Noun,A1,चामल
+2243,rich,Adjective,A1,धनी
+2244,rid,Verb,B2,छुटकारा
+2245,ride,"Verb , Noun","A1, A2",सवारी
+2246,right,Adjective Adverb Noun,A1,दायाँ
+2247,ring,Noun,A2,घन्टी
+2248,ring,"Verb , Noun","A2, B1",घन्टी
+2249,rise,"Verb , Noun","A2, B1",उठ्नेछ
+2250,risk,Noun Verb,B1,जोखिम
+2251,river,Noun,A1,नदी
+2252,road,Noun,A1,सडक
+2253,robot,Noun,B1,रोबोट
+2254,rock (stone),Noun,A2,रक (पत्थर)
+2255,rock (music),Noun,A2,रक (संगीत)
+2256,role,Noun,A2,भूमिका
+2257,roll,Verb Noun,B1,रोल
+2258,romantic,Adjective,B1,रोमान्टिक
+2259,roof,Noun,A2,छत
+2260,room,Noun,A1,कोठा
+2261,root,Noun,B2,मूल
+2262,rope,Noun,B1,डोरी
+2263,rough,Adjective,B1,कुनै न कुनै
+2264,round,"Adjective Adverb prep., Noun","A2, B2",गोलो
+2265,route,Noun,A2,मार्ग
+2266,routine,"Noun, Adjective","A1, B2",तालिका
+2267,row,Noun,B1,पङ्क्ति
+2268,royal,Adjective,B1,शाही
+2269,rub,Verb,B2,दल्नु
+2270,rubber,Noun Adjective,B2,रबर
+2271,rubbish,Noun,A2,बकवास
+2272,rude,Adjective,A2,अशिष्ट
+2273,rugby,Noun,B1,रग्बी
+2274,rule,"Noun, Verb","A1, B1",नियम
+2275,run,"Verb , Noun","A1, A2",रन
+2276,runner,Noun,A2,धावक
+2277,running,Noun,A2,चलिरहेको
+2278,rural,Adjective,B2,ग्रामीण
+2279,rush,Verb Noun,B2,भीड
+2280,sad,Adjective,A1,दुःखी
+2281,sadly,Adverb,A2,दुःखको कुरा
+2282,safe,Adjective,A2,सुरक्षित
+2283,safety,Noun,B1,सुरक्षा
+2284,sail,"Verb , Noun","A2, B1",जहाजमा यात्रा गर्नु
+2285,sailing,Noun,A2,जलयात्रा
+2286,sailor,Noun,B1,जलसैनिक
+2287,salad,Noun,A1,सलाद
+2288,salary,Noun,A2,तलब
+2289,sale,Noun,A2,बिक्री
+2290,salt,Noun,A1,नुन
+2291,same,Adjective proNoun Adverb,A1,एउटै
+2292,sample,"Noun, Verb","B1, B2",नमूना
+2293,sand,Noun,B1,बालुवा
+2294,sandwich,Noun,A1,सैंडविच
+2295,satellite,Noun,B2,उपग्रह
+2296,satisfied,Adjective,B2,सन्तुष्ट
+2297,satisfy,Verb,B2,सन्तुष्ट गर्नु
+2298,Saturday,Noun,A1,शनिबार
+2299,sauce,Noun,A2,सस
+2300,save,Verb,A2,सेव
+2301,saving,Noun,B2,बचत
+2302,say,Verb,A1,भन्नु
+2303,scale,Noun,B2,मात्रा
+2304,scan,Verb,B1,स्क्यान
+2305,scared,Adjective,A2,डराउनु
+2306,scary,Adjective,A2,डरलाग्दो
+2307,scene,Noun,A2,दृश्य
+2308,schedule,"Noun, Verb","A2, B2",तालिका
+2309,scheme,Noun,B2,योजना
+2310,school,Noun,A1,स्कूल
+2311,science,Noun,A1,विज्ञान
+2312,scientific,Adjective,B1,वैज्ञानिक
+2313,scientist,Noun,A1,वैज्ञानिक
+2314,score,Verb Noun,A2,स्कोर
+2315,scream,Verb Noun,B2,चिच्याउनु
+2316,screen,NounVerb,"A2, B2",स्क्रिन
+2317,script,Noun,B1,लिपि
+2318,sculpture,Noun,B1,मूर्तिकला
+2319,sea,Noun,A1,समुद्र
+2320,search,Noun Verb,A2,खोज
+2321,season,Noun,A2,सिजन
+2322,seat,Noun Verb,"A2, B2",सीट
+2323,second1 (next after the first),"et./ number, Adverb","A1, A2",second1 (पहिलो पछि अर्को)
+2324,second1 (unit of time),Noun,A1,second1 (समय को एकाइ)
+2325,secondary,Adjective,B1,दोस्रो
+2326,secondly,Adverb,A2,दोश्रो
+2327,secret,"Adjective, Noun",A2,गोप्य
+2328,secretary,Noun,A2,सचिव
+2329,section,Noun,A1,खण्ड
+2330,sector,Noun,B2,क्षेत्र
+2331,secure,Verb Adjective,B2,सुरक्षित
+2332,security,Noun,B1,सुरक्षा
+2333,see,Verb,A1,हेर्न
+2334,seed,Noun,B1,बीउ
+2335,seek,Verb,B2,खोजी
+2336,seem,Verb,A2,जस्तो
+2337,select,Verb,B2,चयन
+2338,selection,Noun,B2,चयन
+2339,self,Noun,B2,आत्म
+2340,sell,Verb,A1,बिक्री
+2341,send,Verb,A1,पठाउनुहोस्
+2342,senior,Adjective,B2,वरिष्ठ
+2343,sense,Noun Verb,"A2, B2",अर्थमा
+2344,sensible,Adjective,B1,समझदार
+2345,sensitive,Adjective,B2,संवेदनशील
+2346,sentence,Noun Verb,"A1, B2",वाक्य
+2347,separate,"Adjective, Verb","A2, B1",अलग
+2348,September,Noun,A1,सेप्टेम्बर
+2349,sequence,Noun,B2,अनुक्रम
+2350,series,Noun,A2,श्रृंखला
+2351,serious,Adjective,A2,गम्भीर
+2352,seriously,Adverb,B1,गम्भीर
+2353,servant,Noun,B1,दास
+2354,serve,Verb,A2,सेवा
+2355,service,Noun,A2,सेवा
+2356,session,Noun,B2,सत्र
+2357,set (put),Verb,B1,सेट (राख्नुहोस्)
+2358,set (group),Noun,B1,सेट (समूह)
+2359,setting,Noun,B1,सेटिङ
+2360,settle,Verb,B2,बसोबास
+2361,seven,number,A1,सात
+2362,seventeen,number,A1,सत्र
+2363,seventy,number,A1,सत्तरी
+2364,several,det./proNoun,A2,धेरै
+2365,severe,Adjective,B2,गंभीर
+2366,sex,Noun,B1,सेक्स
+2367,sexual,Adjective,B1,यौन
+2368,shade,Noun,B2,छाया
+2369,shadow,Noun,B2,छाया
+2370,shake,Verb Noun,"A2, B1",हल्लाउने
+2371,shall,modal Verb,A2,हुनेछ
+2372,shallow,Adjective,B2,खोक्रो
+2373,shame,Noun,B2,लाज
+2374,shape,Noun Verb,"A2, B2",आकार
+2375,share,Verb Noun,"A1, B1",शेयर
+2376,sharp,Adjective,B1,तेज
+2377,she,proNoun,A1,त्यो
+2378,sheep,Noun,A1,भेडा
+2379,sheet,Noun,A2,पाना
+2380,shelf,Noun,B1,तखता
+2381,shell,Noun,B1,खोल
+2382,shelter,Noun Verb,B2,आश्रय
+2383,shift,Noun Verb,"B1, B2",पारी
+2384,shine,Verb,B1,चम्कने
+2385,shiny,Adjective,B1,चमकदार
+2386,ship,Noun Verb,"A2, B2",जहाज
+2387,shirt,Noun,A1,शर्ट
+2388,shock,Noun Verb,B2,तर्साउने
+2389,shocked,Adjective,B2,स्तब्ध
+2390,shoe,Noun,A1,जुत्ता
+2391,shoot,Verb,B1,गोली मार
+2392,shooting,Noun,B2,सुटिङ
+2393,shop,Noun Verb,A1,दोकान
+2394,shopping,Noun,A1,किनमेल
+2395,short,Adjective,A1,छोटो
+2396,shot,Noun,B2,शट
+2397,should,modal Verb,A1,SHOULD
+2398,shoulder,Noun,A2,काँध
+2399,shout,Verb Noun,A2,कराउनु
+2400,show,Verb Noun,A1,देखाउनु
+2401,shower,Noun,A1,शवर
+2402,shut,Verb Adjective,A2,बन्द
+2403,shy,Adjective,B1,नहट्न
+2404,sick,Adjective,A1,बिरामी
+2405,side,Noun,A2,पक्ष
+2406,sight,Noun,B1,दृष्टि
+2407,sign,Noun Verb,A2,साइन
+2408,signal,Noun Verb,B1,संकेत
+2409,significant,Adjective,B2,महत्वपूर्ण
+2410,significantly,Adverb,B2,एकदम
+2411,silence,Noun,B2,मौन
+2412,silent,Adjective,B1,मौन
+2413,silk,Noun,B2,रेशम
+2414,silly,Adjective,B1,बेवकूफ
+2415,silver,Noun Adjective,A2,चाँदी
+2416,similar,Adjective,A1,यस्तै
+2417,similarity,Noun,B1,समानता
+2418,similarly,Adverb,B1,त्यस्तै
+2419,simple,Adjective,A2,सरल
+2420,simply,Adverb,B1,बस
+2421,since,"prep. conj., Adverb","A2, B1",देखि
+2422,sincere,Adjective,B2,निष्कपट
+2423,sing,Verb,A1,गाओ
+2424,singer,Noun,A1,गायक
+2425,singing,Noun,A2,गायन
+2426,single,Adjective Noun,A2,एकल
+2427,sink,Verb,B1,डुब्नु
+2428,sir,Noun,A2,सर
+2429,sister,Noun,A1,बहिनी
+2430,sit,Verb,A1,सिट
+2431,site,Noun,A2,साइट
+2432,situation,Noun,A1,स्थिति
+2433,six,number,A1,छ
+2434,sixteen,number,A1,सोह्र
+2435,sixty,number,A1,साठी
+2436,size,Noun,A2,आकार
+2437,ski,Verb Noun,A2,स्की
+2438,skiing,Noun,A2,स्किइङ
+2439,skill,Noun,A1,कौशल
+2440,skin,Noun,A2,छाला
+2441,skirt,Noun,A1,स्कर्ट
+2442,sky,Noun,A2,आकाश
+2443,slave,Noun,B2,दास
+2444,sleep,"Verb , Noun","A1, A2",निद्रामा
+2445,slice,Noun Verb,B1,स्लाइस
+2446,slide,Verb Noun,B2,स्लाइड
+2447,slight,Adjective,B2,अलि कति
+2448,slightly,Adverb,B1,अलिकति
+2449,slip,Verb,B2,पर्ची
+2450,slope,Noun Verb,B2,ढलान
+2451,slow,"Adjective , Verb","A1, B1",ढिलो
+2452,slowly,Adverb,A2,बिस्तारी
+2453,small,Adjective,A1,सानो
+2454,smart,Adjective,B1,स्मार्ट
+2455,smartphone,Noun,A2,स्मार्टफोन
+2456,smell,Verb Noun,A2,गन्ध
+2457,smile,Verb Noun,A2,मुस्कान
+2458,smoke,Noun Verb,A2,धुवाँ
+2459,smoking,Noun,A2,धूम्रपान
+2460,smooth,Adjective,B1,चिकना
+2461,snake,Noun,A1,सर्प
+2462,snow,Noun Verb,A1,हिउँ
+2463,so,Adverb conj.,A1,त्यसैले
+2464,soap,Noun,A2,साबुन
+2465,soccer,Noun,A2,फुटबल
+2466,social,Adjective,A2,सामाजिक
+2467,society,Noun,A2,समाज
+2468,sock,Noun,A2,sock
+2469,soft,Adjective,A2,नरम
+2470,software,Noun,B1,सफ्टवेयर
+2471,soil,Noun,B1,माटो
+2472,solar,Adjective,B2,सौर
+2473,soldier,Noun,A2,सैनिक
+2474,solid,Adjective Noun,B1,ठोस
+2475,solution,Noun,A2,समाधान
+2476,solve,Verb,A2,समाधान
+2477,some,det. proNoun,A1,केही
+2478,somebody,proNoun,A1,कुनै
+2479,someone,proNoun,A1,कसैले
+2480,something,proNoun,A1,केही
+2481,sometimes,Adverb,A1,कहिलेकाहीं
+2482,somewhat,Adverb,B2,केहि
+2483,somewhere,Adverb proNoun,A2,कहीं
+2484,son,Noun,A1,छोरा
+2485,song,Noun,A1,गीत
+2486,soon,Adverb,A1,चाँडै
+2487,sorry,Adjective exclam.,A1,माफ गर्नुहोस्
+2488,sort,"Noun, Verb","A2, B1",क्रमबद्ध
+2489,soul,Noun,B2,प्राण
+2490,sound,Noun Verb,A1,ध्वनि
+2491,soup,Noun,A1,सूप
+2492,source,Noun,A2,मुहान
+2493,south,Noun Adjective Adverb,A1,दक्षिण
+2494,southern,Adjective,B1,दक्षिणी
+2495,space,Noun,A1,ठाउँ
+2496,speak,Verb,A1,बोल्ने
+2497,speaker,Noun,A2,वक्ता
+2498,special,Adjective,A1,विशेष
+2499,specialist,Noun Adjective,B2,विशेषज्ञ
+2500,species,Noun,B2,प्रजाति
+2501,specific,Adjective,A2,विशिष्ट
+2502,specifically,Adverb,B1,विशेष
+2503,speech,Noun,A2,बोली
+2504,speed,"Noun, Verb","A2, B2",गति
+2505,spell,Verb,A1,हिज्जे
+2506,spelling,Noun,A1,हिज्जे
+2507,spend,Verb,A1,खर्च
+2508,spending,Noun,B1,खर्च
+2509,spicy,Adjective,B1,मसालेदार
+2510,spider,Noun,A2,माकुरा
+2511,spirit,Noun,B1,आत्मा
+2512,spiritual,Adjective,B2,आध्यात्मिक
+2513,split,Verb Noun,B2,विभाजित
+2514,spoken,Adjective,B1,बोली
+2515,sponsor,Verb Noun,B2,प्रायोजक
+2516,spoon,Noun,A2,चम्चा
+2517,sport,Noun,A1,खेल
+2518,spot,"Noun, Verb","B1, B2",स्थान
+2519,spread,"Verb , Noun","B1, B2",फैलने
+2520,spring,"Noun, Verb","A1, B1",वसन्त
+2521,square,Adjective Noun,A2,वर्ग
+2522,stable,Adjective,B2,स्थिर
+2523,stadium,Noun,B1,स्टेडियम
+2524,staff,Noun,B1,कर्मचारी
+2525,stage,"Noun, Verb","A2, B2",चरण
+2526,stair,Noun,A2,सिँढी
+2527,stamp,Noun,A2,टिकट
+2528,stand,"Verb , Noun","A1, B2",खडा
+2529,standard,Noun Adjective,B1,मानक
+2530,star,"Noun, Verb","A1, A2",तारा
+2531,stare,Verb,B2,ताक
+2532,start,"Verb , Noun","A1, A2",सुरु
+2533,state,"Noun, Adjective , v","A2, B1",राज्य
+2534,statement,Noun,A1,बयान
+2535,station,Noun,A1,स्टेशन
+2536,statistic,Noun,B1,तथ्याङ्क
+2537,statue,Noun,B1,मुर्ति
+2538,status,Noun,B2,स्थिति
+2539,stay,"Verb , Noun","A1, A2",बसाइ
+2540,steady,Adjective,B2,स्थिर
+2541,steal,Verb,A2,चोरी
+2542,steel,Noun,B2,इस्पात
+2543,steep,Adjective,B2,ठाडो
+2544,step,"Noun, Verb","A2, B2",चरण
+2545,stick (push into/attach),Verb,B1,स्टिक (पुस मा / संलग्न)
+2546,stick (piece of wood),Noun,B1,स्टिक (काठ टुक्रा)
+2547,sticky,Adjective,B2,टाँसिएको
+2548,stiff,Adjective,B2,कडा
+2549,still,"Adverb , Adjective","A1, B1",अझै पनि
+2550,stock,Noun,B2,स्टक
+2551,stomach,Noun,A2,पेट
+2552,stone,Noun,A2,पत्थर
+2553,stop,Verb Noun,A1,रोक
+2554,store,"Noun, Verb","A2, B1",स्टोर
+2555,storm,Noun,A2,आँधी
+2556,story,Noun,A1,कथा
+2557,straight,Adverb Adjective,A2,सीधा
+2558,strange,Adjective,A2,अनौठो
+2559,stranger,Noun,B1,नौलो
+2560,strategy,Noun,A2,रणनीति
+2561,stream,Noun,B2,धारा
+2562,street,Noun,A1,सडक
+2563,strength,Noun,B1,बल
+2564,stress,Noun Verb,A2,तनाव
+2565,stretch,Verb Noun,B2,खण्डका
+2566,strict,Adjective,B2,सख्त
+2567,strike,Verb Noun,B2,हडताल
+2568,string,Noun,B1,स्ट्रिङ
+2569,strong,Adjective,A1,बलियो
+2570,strongly,Adverb,B1,कडा
+2571,structure,"Noun, Verb","A2, B2",संरचना
+2572,struggle,Verb Noun,B2,संघर्ष
+2573,student,Noun,A1,विद्यार्थी
+2574,studio,Noun,B1,स्टूडियो
+2575,study,Noun Verb,A1,अध्ययन
+2576,stuff,"Noun, Verb","B1, B2",सामान
+2577,stupid,Adjective,A2,मूर्ख
+2578,style,Noun,A1,शैली
+2579,subject,"Noun, Adjective","A1, B2",विषय
+2580,submit,Verb,B2,पेश
+2581,substance,Noun,B1,पदार्थ
+2582,succeed,Verb,A2,सफल
+2583,success,Noun,A1,सफलता
+2584,successful,Adjective,A2,सफल
+2585,successfully,Adverb,B1,सफलतापूर्वक
+2586,such,det./proNoun,A2,यस्तो
+2587,sudden,Adjective,B1,अचानक
+2588,suddenly,Adverb,A2,अचानक
+2589,suffer,Verb,B1,ग्रस्त
+2590,sugar,Noun,A1,चीनी
+2591,suggest,Verb,A2,सुझाव
+2592,suggestion,Noun,A2,सुझाव
+2593,suit,"Noun, Verb","A2, B1",सुट
+2594,suitable,Adjective,B1,उपयुक्त
+2595,sum,Noun Verb,B2,योगफल
+2596,summarize,Verb,B1,सारांशमा
+2597,summary,Noun,B1,सारांश
+2598,summer,Noun,A1,गर्मी
+2599,sun,Noun,A1,सूर्य
+2600,Sunday,Noun,A1,आइतवार
+2601,supermarket,Noun,A1,सुपरमार्केट
+2602,supply,Noun Verb,B1,आपूर्ति
+2603,support,Verb Noun,A2,समर्थन
+2604,supporter,Noun,B1,समर्थक
+2605,suppose,Verb,A2,ठान्नु
+2606,sure,"Adjective , Adverb","A1, A2",निश्चित
+2607,surely,Adverb,B1,पक्कै पनि
+2608,surface,Noun,B1,सतह
+2609,surgery,Noun,B2,सर्जरी
+2610,surprise,Noun Verb,A2,आश्चर्य
+2611,surprised,Adjective,A2,हैरानी
+2612,surprising,Adjective,A2,अचम्मको
+2613,surround,Verb,B2,घेर
+2614,surrounding,Adjective,B2,वरपरका
+2615,survey,"Noun, Verb","A2, B2",सर्वेक्षण
+2616,survive,Verb,B1,बाँच्न
+2617,suspect,Verb Noun,B2,संदिग्ध
+2618,swear,Verb,B2,कसम
+2619,sweater,Noun,A1,स्वेटर
+2620,sweep,Verb,B2,कूचो लगाउनु
+2621,sweet,Adjective Noun,A2,मिठाई
+2622,swim,"Verb , Noun","A1, B1",पौडनु
+2623,swimming,Noun,A1,पौडी
+2624,switch,"Verb , Noun","B1, B2",स्विच
+2625,symbol,Noun,A2,प्रतीक
+2626,sympathy,Noun,B2,सहानुभूति
+2627,symptom,Noun,B1,लक्षण
+2628,system,Noun,A2,सिस्टम
+2629,table,Noun,A1,तालिका
+2630,tablet,Noun,A2,ट्याब्लेट
+2631,tail,Noun,B1,पुच्छर
+2632,take,Verb,A1,लिन
+2633,tale,Noun,B2,कथा
+2634,talent,Noun,B1,प्रतिभा
+2635,talented,Adjective,B1,प्रतिभाशाली
+2636,talk,"Verb , Noun","A1, A2",कुरा
+2637,tall,Adjective,A1,अग्लो
+2638,tank,Noun,B2,ट्यांक
+2639,tape,Noun,B1,टेप
+2640,target,"Noun, Verb","A2, B2",लक्ष्य
+2641,task,Noun,A2,कार्य
+2642,taste,Noun Verb,A2,स्वाद
+2643,tax,Noun Verb,B1,कर
+2644,taxi,Noun,A1,ट्याक्सी
+2645,tea,Noun,A1,चिया
+2646,teach,Verb,A1,सिकाउँछन्
+2647,teacher,Noun,A1,शिक्षक
+2648,teaching,Noun,A2,शिक्षा
+2649,team,Noun,A1,टोली
+2650,tear1,Verb Noun,B2,tear1
+2651,tear2,Noun,B2,tear2
+2652,technical,Adjective,B1,प्राविधिक
+2653,technique,Noun,B1,प्रविधी
+2654,technology,Noun,A2,प्रविधि
+2655,teenage,Adjective,A2,किशोर
+2656,teenager,Noun,A1,किशोरी
+2657,telephone,Noun Verb,A1,टेलिफोन
+2658,television,Noun,A1,टेलिभिजन
+2659,tell,Verb,A1,बताउन
+2660,temperature,Noun,A2,तापमान
+2661,temporary,Adjective,B2,अस्थायी
+2662,ten,number,A1,दस
+2663,tend,Verb,B1,गर्छन
+2664,tennis,Noun,A1,टेनिस
+2665,tent,Noun,B1,पाल
+2666,term,"Noun, Verb","A2, B2",अवधि
+2667,terrible,Adjective,A1,भयानक
+2668,test,Noun Verb,A1,परीक्षण
+2669,text,"Noun, Verb","A1, A2",पाठ
+2670,than,conj.,A1,भन्दा
+2671,thank,Verb,A1,धन्यवाद
+2672,thanks,exclam. Noun,A1,धन्यवाद
+2673,that,"det. proNoun conj., Adverb","A1, B1",कि
+2674,the,definite article,A1,को
+2675,theatre,Noun,A1,थिएटर
+2676,their,det.,A1,आफ्नो
+2677,theirs,proNoun,B1,तिनीहरूको
+2678,them,proNoun,A1,उनीहरु
+2679,theme,Noun,B1,विषय
+2680,themselves,proNoun,A2,आफूलाई
+2681,then,Adverb,A1,त्यसपछि
+2682,theory,Noun,B1,सिद्धान्त
+2683,therapy,Noun,B2,चिकित्सा
+2684,there,Adverb,A1,त्यहाँ
+2685,therefore,Adverb,B1,त्यसैले
+2686,they,proNoun,A1,तिनीहरूले
+2687,thick,Adjective,A2,बाक्लो
+2688,thief,Noun,A2,चोर
+2689,thin,Adjective,A2,पातलो
+2690,thing,Noun,A1,कुरा
+2691,think,Verb,A1,लाग्छ
+2692,thinking,Noun,A2,सोचाइ
+2693,third,"number, Noun","A1, A2",तेस्रो
+2694,thirsty,Adjective,A1,तिर्खाएको
+2695,thirteen,number,A1,तेह्र
+2696,thirty,number,A1,तीस
+2697,this,"det./proNoun, Adverb","A1, B1",यो
+2698,though,conj. Adverb,B1,हुनत
+2699,thought,Noun,A2,विचार
+2700,thousand,number,A1,हजार
+2701,threat,Noun,B2,खतरा
+2702,threaten,Verb,B2,खतरामा
+2703,three,number,A1,तीन
+2704,throat,Noun,B1,घाँटी
+2705,through,prep. Adverb,A1,मार्फत
+2706,throughout,prep./Adverb,B1,अवधिभर
+2707,throw,Verb,A2,फाल्नु
+2708,Thursday,Noun,A1,बिहीबार
+2709,thus,Adverb,B2,यसरी
+2710,ticket,Noun,A1,टिकट
+2711,tidy,Adjective v,A2,सुग्घर
+2712,tie,Verb Noun,A2,टाई
+2713,tight,Adjective,B1,तंग
+2714,till,conj./prep.,B1,सम्म
+2715,time,"Noun, Verb","A1, B2",समय
+2716,tin,Noun,B1,टिन
+2717,tiny,Adjective,B1,सानो
+2718,tip,"Noun, Verb","A2, B1",टिप
+2719,tired,Adjective,A1,थकित
+2720,title,Noun,"A1, B2",शीर्षक
+2721,to,"prep., infinitive marker",A1,गर्न
+2722,today,Adverb Noun,A1,आज
+2723,toe,Noun,B1,खुट्टाको औंलासम्म
+2724,together,Adverb,A1,सँगै
+2725,toilet,Noun,A1,शौचालय
+2726,tomato,Noun,A1,टमाटर
+2727,tomorrow,Adverb Noun,A1,भोलि
+2728,tone,Noun,B2,टोन
+2729,tongue,Noun,B1,जिब्रो
+2730,tonight,Adverb n,A1,आज राती
+2731,too,Adverb,A1,धेरै
+2732,tool,Noun,A2,उपकरण
+2733,tooth,Noun,A1,दाँत
+2734,top,"Noun, Adjective",A2,शीर्ष
+2735,topic,Noun,A1,विषय
+2736,total,Adjective Noun,B1,कुल
+2737,totally,Adverb,B1,पूर्ण
+2738,touch,"Verb , Noun","A2, B1",स्पर्श
+2739,tough,Adjective,B2,कठिन
+2740,tour,"Noun, Verb","A2, B1",भ्रमण
+2741,tourism,Noun,A2,पर्यटन
+2742,tourist,Noun,A1,पर्यटक
+2743,towards,prep.,A2,तिर
+2744,towel,Noun,A2,तौलिया
+2745,tower,Noun,A2,टावर
+2746,town,Noun,A1,शहर
+2747,toy,"Noun, Adjective",A2,खेलौना
+2748,track,"Noun, Verb","A2, B2",ट्र्याक
+2749,trade,"Noun, Verb",B1,व्यापार
+2750,tradition,Noun,A2,परम्परा
+2751,traditional,Adjective,A2,परम्परागत
+2752,traffic,Noun,A1,यातायात
+2753,train,"Noun, Verb","A1, A2",रेल
+2754,trainer,Noun,A2,प्रशिक्षक
+2755,training,Noun,A2,प्रशिक्षण
+2756,transfer,Verb Noun,B2,स्थानान्तरण
+2757,transform,Verb,B2,परिवर्तन
+2758,transition,Noun,B2,संक्रमण
+2759,translate,Verb,B1,अनुवाद
+2760,translation,Noun,B1,अनुवाद
+2761,transport,"Noun, Verb","A2, B1",परिवहन
+2762,travel,Verb Noun,A1,यात्रा
+2763,traveller,Noun,A2,यात्री
+2764,treat,Verb,B1,व्यवहार
+2765,treatment,Noun,B1,उपचार
+2766,tree,Noun,A1,रूख
+2767,trend,Noun,B1,प्रवृत्ति
+2768,trial,Noun,B2,परीक्षण
+2769,trick,Noun Verb,B1,चाल
+2770,trip,"Noun, Verb","A1, B2",यात्रा
+2771,tropical,Adjective,B2,ट्रपिकल
+2772,trouble,"Noun, Verb","A2, B2",समस्या
+2773,trousers,Noun,A1,ट्राउजर
+2774,truck,Noun,A2,ट्रक
+2775,TRUE,Adjective,A1,साँचो
+2776,truly,Adverb,B2,साँच्चै
+2777,trust,Noun Verb,B2,भरोसा
+2778,truth,Noun,B1,सत्य
+2779,try,"Verb , Noun","A1, B2",प्रयास
+2780,T-shirt,Noun,A1,टी-शर्ट
+2781,tube,Noun,B1,ट्यूब
+2782,Tuesday,Noun,A1,मंगलवार
+2783,tune,Noun,B2,ट्युन
+2784,tunnel,Noun,B2,टनेल
+2785,turn,Verb Noun,A1,बारी
+2786,TV,Noun,A1,टिभी
+2787,twelve,number,A1,बाह्र
+2788,twenty,number,A1,बीस
+2789,twice,Adverb,A1,दुई पटक
+2790,twin,Noun Adjective,A2,ट्विन
+2791,two,number,A1,दुई
+2792,type,"Noun, Verb","A1, B1",प्रकार
+2793,typical,Adjective,A2,विशिष्ट
+2794,typically,Adverb,B1,सामान्यतया
+2795,tyre,Noun,B1,टायर
+2796,ugly,Adjective,B1,कुरुप
+2797,ultimately,Adverb,B2,अन्ततः
+2798,umbrella,Noun,A1,छाता
+2799,unable,Adjective,B1,असमर्थ
+2800,uncle,Noun,A1,मामा
+2801,uncomfortable,Adjective,B1,असहज
+2802,unconscious,Adjective,B2,अचेत
+2803,under,prep. Adj,A1,अन्तर्गत
+2804,underground,Adjective Adverb,A2,भूमिगत
+2805,understand,Verb,A1,बुझ्न
+2806,understanding,Noun,A2,समझ
+2807,underwear,Noun,B1,अंडरवियर
+2808,unemployed,Adjective,B1,बेरोजगार
+2809,unemployment,Noun,B1,बेरोजगारी
+2810,unexpected,Adjective,B2,अनपेक्षित
+2811,unfair,Adjective,B1,अन्याय
+2812,unfortunately,Adverb,A2,दुर्भाग्य
+2813,unhappy,Adjective,A2,दुखी
+2814,uniform,Noun,A2,वर्दी
+2815,union,Noun,B1,संघ
+2816,unique,Adjective,B2,अद्वितीय
+2817,unit,Noun,A2,एकाइ
+2818,united,Adjective,A2,संयुक्त
+2819,universe,Noun,B2,ब्रह्माण्ड
+2820,university,Noun,A1,विश्वविद्यालय
+2821,unknown,Adjective,B2,अज्ञात
+2822,unless,conj.,B1,जबसम्म
+2823,unlike,prep.,B1,विपरीत
+2824,unlikely,Adjective,B1,असम्भाव्य
+2825,unnecessary,Adjective,B1,अनावश्यक
+2826,unpleasant,Adjective,B1,अप्रिय
+2827,until,conj./prep.,A1,सम्म
+2828,unusual,Adjective,A2,असामान्य
+2829,up,Adverb proNoun,A1,माथि
+2830,update,Verb Noun,B1,अद्यावधिक
+2831,upon,prep.,B1,मा
+2832,upper,Adjective,B2,माथिल्लो
+2833,upset,Adjective v,B1,उदास
+2834,upstairs,"Adverb , Adjective","A1, A2",माथिल्लो तलाको
+2835,upwards,Adverb,B2,माथिको
+2836,urban,Adjective,B2,शहरी
+2837,urge,Verb,B2,चाहनाको
+2838,us,proNoun,A1,हामीलाई
+2839,use,"Verb , Noun","A1, A2",प्रयोग
+2840,used,Adjective,B1,प्रयोग
+2841,used to,modal Verb,A2,प्रयोग
+2842,useful,Adjective,A1,उपयोगी
+2843,user,Noun,A2,प्रयोगकर्ता
+2844,usual,Adjective,A2,सामान्य
+2845,usually,Adverb,A1,सामान्यतया
+2846,vacation,Noun,A1,छुट्टी
+2847,valley,Noun,A2,उपत्यका
+2848,valuable,Adjective,B1,बहुमूल्य
+2849,value,"Noun, Verb","B1, B2",मूल्य
+2850,van,Noun,A2,वैन
+2851,variety,Noun,A2,विभिन्न
+2852,various,Adjective,B1,विभिन्न
+2853,vary,Verb,B2,भिन्न
+2854,vast,Adjective,B2,विशाल
+2855,vegetable,Noun,A1,सागसब्जी
+2856,vehicle,Noun,A2,वाहन
+2857,venue,Noun,B2,स्थल
+2858,version,Noun,B1,संस्करण
+2859,very,"Adverb , Adjective","A1, B1",धेरै
+2860,via,prep.,B2,मार्फत
+2861,victim,Noun,B1,पीडित
+2862,victory,Noun,B2,विजय
+2863,video,Noun,A1,भिडियो
+2864,view,"Noun, Verb","A2,",दृश्य
+2865,viewer,Noun,B1,दर्शक
+2866,village,Noun,A1,गाउँमा
+2867,violence,Noun,B2,हिंसा
+2868,violent,Adjective,B1,हिंसात्मक
+2869,virtual,Adjective,B2,भर्चुअल
+2870,virus,Noun,A2,भाइरस
+2871,vision,Noun,B2,दृष्टि
+2872,visit,Verb Noun,A1,यात्रा
+2873,visitor,Noun,A1,आगन्तुक
+2874,visual,Adjective,B2,दृश्य
+2875,vital,Adjective,B2,अत्यावश्यक
+2876,vitamin,Noun,B2,भिटामिन
+2877,voice,Noun,A2,आवाज
+2878,volume,Noun,B2,मात्रा
+2879,volunteer,Noun Verb,B1,स्वयंसेवक
+2880,vote,Noun Verb,B1,मत
+2881,wage,Noun,B2,ज्याला
+2882,wait,"Verb , Noun","A1, A2",पर्खाइ
+2883,waiter,Noun,A1,वेटर
+2884,wake,Verb,A1,जागा
+2885,walk,Verb Noun,A1,हिंड्न
+2886,wall,Noun,A1,पर्खाल
+2887,want,Verb,A1,चाहनुहुन्छ
+2888,war,Noun,A2,युद्ध
+2889,warm,"Adjective , v","A1, B1",न्यानो
+2890,warn,Verb,B1,चेतावनी
+2891,warning,Noun,B1,चेतावनी
+2892,wash,"Verb , Noun","A1, A2",धो
+2893,washing,Noun,A2,लुगा धुने
+2894,waste,"Noun v, Adjective",B1,बर्बाद
+2895,watch,Verb Noun,A1,हेर्ने
+2896,water,"Noun, Verb","A1, B1",पानी
+2897,wave,Noun,"A2, B1",लहर
+2898,way,Noun,"A1, B2",बाटो
+2899,we,proNoun,A1,हामी
+2900,weak,Adjective,A2,कमजोर
+2901,weakness,Noun,B2,कमजोरी
+2902,wealth,Noun,B2,धन
+2903,wealthy,Adjective,B2,धनी
+2904,weapon,Noun,B1,हतियार
+2905,wear,Verb,A1,वेयर
+2906,weather,Noun,A1,मौसम
+2907,web,Noun,A2,वेब
+2908,website,Noun,A1,वेबसाइट
+2909,wedding,Noun,A2,विवाह
+2910,Wednesday,Noun,A1,बुधवार
+2911,week,Noun,A1,हप्ता
+2912,weekend,Noun,A1,सप्ताह
+2913,weigh,Verb,B1,वजन
+2914,weight,Noun,A2,वजन
+2915,welcome,"exclam. Verb Adjective , n","A1, A2",स्वागत
+2916,well,"Adverb , Adjective , exclam.",A1,राम्रो
+2917,west,Noun Adjective Adverb,A1,पश्चिम
+2918,western,Adjective,B1,पश्चिमी
+2919,wet,Adjective,A2,भिजेको
+2920,what,proNoun/det.,A1,के
+2921,whatever,det./proNoun,B1,जे सुकै होस्
+2922,wheel,Noun,A2,पाङ्ग्रा
+2923,when,Adverb proNounconj.,A1,जब
+2924,whenever,conj.,B1,जब
+2925,where,Adverb conj.,A1,जहाँ
+2926,whereas,conj.,B2,जबकि
+2927,wherever,conj.,B2,जहा सुकै
+2928,whether,conj.,B1,कि
+2929,which,proNoun/det.,A1,जो
+2930,while,"conj., Noun","A2, B1",जबकि
+2931,whisper,Verb Noun,B2,लेकानेखुसीगर्छ
+2932,white,Adjective Noun,A1,सेतो
+2933,who,proNoun,A1,Who
+2934,whole,"Adjective , n","A2, B1",सारा
+2935,whom,proNoun,B2,जसलाई
+2936,whose,det./proNoun,A2,जसको
+2937,why,Adverb,A1,किन
+2938,wide,Adjective,A2,विस्तृत
+2939,widely,Adverb,B2,व्यापक
+2940,wife,Noun,A1,पत्नी
+2941,wild,Adjective,A2,जंगली
+2942,wildlife,Noun,B2,वन्यजन्तु
+2943,will,"modal, Noun Verb","A1,",हुनेछ
+2944,willing,Adjective,B2,इच्छुक
+2945,win,"Verb , Noun","A1, B1",जीत
+2946,wind1,Noun,A2,wind1
+2947,wind2,Verb,B2,wind2
+2948,window,Noun,A1,विन्डो
+2949,wine,Noun,A1,रक्सी
+2950,wing,Noun,B1,पखेटा
+2951,winner,Noun,A2,विजेता
+2952,winter,Noun,A1,जाडो
+2953,wire,Noun,B2,तार
+2954,wise,Adjective,B2,बुद्धिमानी
+2955,wish,Verb Noun,A2,इच्छा
+2956,with,prep.,A1,संग
+2957,within,prep.,B1,भित्र
+2958,without,prep.,A1,बिना
+2959,witness,Noun Verb,B2,साक्षी
+2960,woman,Noun,A1,महिला
+2961,wonder,Verb Noun,B1,आश्चर्य
+2962,wonderful,Adjective,A1,सुन्दर
+2963,wood,Noun,A2,काठ
+2964,wooden,Adjective,A2,काठ
+2965,wool,Noun,B1,ऊन
+2966,word,Noun,A1,शब्द
+2967,work,Verb Noun,A1,काम
+2968,worker,Noun,A1,कामदार
+2969,working,Adjective,A2,काम
+2970,world,Noun,A1,विश्व
+2971,worldwide,Adjective Adverb,B1,विश्वव्यापी
+2972,worried,Adjective,A2,चिन्तित
+2973,worry,Verb Noun,"A2, B1",चिन्ता
+2974,worse,"Adjective, AdVerb Noun","A2,B1, B2",बुरा
+2975,worst,"Adjective, AdVerb","A2,B1, B2",खराब
+2976,worth,"Adjective, Noun","B1, B2",लायक
+2977,would,"modal, Verb",A1,के
+2978,wound,Noun Verb,B2,घाउ
+2979,wow,exclam.,A2,आहा
+2980,wrap,Verv,B2,बेर्नु
+2981,write,Verb,A1,लेख्ने
+2982,writer,Noun,A1,लेखक
+2983,writing,Noun,A1,लेखन
+2984,written,Adjective,B1,लिखित
+2985,wrong,"Adjective, AdVerb Noun","A1, B1, B2",गलत
+2986,yard,Noun,B1,यार्ड
+2987,yeah,exclam.,A1,हाँ
+2988,year,Noun,A1,वर्ष
+2989,yellow,"Adjective, Noun",A1,पहेंलो
+2990,yes,exclam.,A1,हो
+2991,yesterday,AdVerb Noun,A1,हिजो
+2992,yet,AdVerb conj.,"A2, B2",अझै
+2993,you,proNoun,A1,तपाईं
+2994,young,"Adjective, Noun","A1, B1",जवान
+2995,your,det.,A1,आफ्नो
+2996,yours,proNoun,A2,तपाइँको
+2997,yourself,proNoun,A1,आफैलाई
+2998,youth,Noun,B1,युवा
+2999,zero,number,A2,शून्य
+3000,zone,Noun,B2,क्षेत्र
